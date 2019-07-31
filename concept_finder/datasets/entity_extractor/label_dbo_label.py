@@ -77,6 +77,10 @@ def query_dbpedia_concept(subject):
                     dest.write("{}\t{}\t{}\n".format(subject, predicate, uri))
 
 def query_dbpedia_relation(subject):
+    global count
+    count += 1
+    print(count / total)
+    
     label, uri = subject.split('\t')
     uri = uri[:-2]
     sparql = SPARQLWrapper("http://dbpedia.org/sparql")
@@ -130,7 +134,10 @@ rows = list(set(rows))
 
 total = len(rows)
 
-# pool.map(query_dbpedia_concept, rows)
+pool.map(query_dbpedia_concept, rows)
+
+count = 0
+
 pool.map(query_dbpedia_relation, rows)
 
 pool.close()
