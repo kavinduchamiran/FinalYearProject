@@ -25,14 +25,14 @@ def query_dbpedia_lookup_endpoint(x):
         count += 1
         print(count / c)
 
-        filename, col, entity_label = x
+        filename, col, entity_label = xgit 
 
         url = 'http://lookup.dbpedia.org/api/search/KeywordSearch?MaxHits=1&QueryString=%s' % entity_label
         http = urllib3.PoolManager()
 
         req = http.request('GET', url, headers={'Accept': 'application/json'})
 
-        json_data = json.loads(req.data.decode('utf-8'))
+        json_data = json.loads(req.data)
 
         if json_data['results']:
             uri = json_data['results'][0]['uri']
