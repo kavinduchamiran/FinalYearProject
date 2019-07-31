@@ -77,7 +77,10 @@ rows = [row for row in rows if special_match(row[2])]
 
 c = len(rows)
 
-pool.map(query_dbpedia_lookup_endpoint, rows)
+try:
+    pool.map(query_dbpedia_lookup_endpoint, rows)
 
-pool.close()
-pool.join()
+    pool.close()
+    pool.join()
+except Exception as e:
+    print(e)
