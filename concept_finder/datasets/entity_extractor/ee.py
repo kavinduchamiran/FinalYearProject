@@ -25,7 +25,7 @@ def query_dbpedia_lookup_endpoint(x):
         count += 1
         print(count / c)
 
-        filename, col, entity_label = xgit 
+        filename, col, entity_label = x
 
         url = 'http://lookup.dbpedia.org/api/search/KeywordSearch?MaxHits=1&QueryString=%s' % entity_label
         http = urllib3.PoolManager()
