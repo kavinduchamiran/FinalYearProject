@@ -1,0 +1,3 @@
+http://dbpedia.org/ontology/Currency,currency,True,1
+http://dbpedia.org/ontology/usingCountry,country,False,0
+http://dbpedia.org/ontology/currency,sub currency,False,2

@@ -1,0 +1,66 @@
+{
+        "http://dbpedia.org/ontology/flagSize" : [ ],
+        "http://dbpedia.org/ontology/towerHeight" : [ ],
+        "http://dbpedia.org/ontology/partitionCoefficient" : [ ],
+        "http://dbpedia.org/ontology/redListIdNL" : [ ],
+        "http://dbpedia.org/ontology/minorityLeader" : [ ],
+        "http://dbpedia.org/ontology/inclination" : [ ],
+        "http://dbpedia.org/ontology/gdpPerCapita" : [ ],
+        "http://dbpedia.org/ontology/partyNumber" : [ ],
+        "http://dbpedia.org/ontology/numberOfDoors" : [ ],
+        "http://dbpedia.org/ontology/establishment" : [ ],
+        "http://dbpedia.org/ontology/majorityLeader" : [ ],
+        "http://dbpedia.org/ontology/minimumInclination" : [ ],
+        "http://dbpedia.org/ontology/giniCoefficientRanking" : [ ],
+        "http://dbpedia.org/ontology/range" : [ ],
+        "http://dbpedia.org/ontology/illiteracy" : [ ],
+        "http://dbpedia.org/ontology/dist_pc" : [ ],
+        "http://dbpedia.org/ontology/careerPoints" : [ ],
+        "http://dbpedia.org/ontology/numberOfCountries" : [ ],
+        "http://dbpedia.org/ontology/percentageLiterate" : [ ],
+        "http://dbpedia.org/ontology/artificialSnowArea" : [ ],
+        "http://dbpedia.org/ontology/orbitalEccentricity" : [ ],
+        "http://dbpedia.org/ontology/flashPoint" : [ ],
+        "http://dbpedia.org/ontology/output" : [ ],
+        "http://dbpedia.org/ontology/sessionNumber" : [ ],
+        "http://dbpedia.org/ontology/orbitalInclination" : [ ],
+        "http://dbpedia.org/ontology/facilityId" : [ ],
+        "http://dbpedia.org/ontology/majorityFloorLeader" : [ ],
+        "http://dbpedia.org/ontology/areaTotalRanking" : [ ],
+        "http://dbpedia.org/ontology/v_hb" : [ ],
+        "http://dbpedia.org/ontology/penaltyScore" : [ ],
+        "http://dbpedia.org/ontology/numberOfHoles" : [ ],
+        "http://dbpedia.org/ontology/minorityFloorLeader" : [ ],
+        "http://dbpedia.org/ontology/size_v" : [ ],
+        "http://dbpedia.org/ontology/landPercentage" : [ ],
+        "http://dbpedia.org/ontology/coastLength" : [ ],
+        "http://dbpedia.org/ontology/totalTracks" : [ ],
+        "http://dbpedia.org/ontology/totalDiscs" : [ ],
+        "http://dbpedia.org/ontology/frontierLength" : [ ],
+        "http://dbpedia.org/ontology/radius_ly" : [ ],
+        "http://dbpedia.org/ontology/usk" : [ ],
+        "http://dbpedia.org/ontology/solubility" : [ ],
+        "http://dbpedia.org/ontology/ceiling" : [ ],
+        "http://dbpedia.org/ontology/maximumInclination" : [ ],
+        "http://dbpedia.org/ontology/numberOfCollectionItems" : [ ],
+        "http://dbpedia.org/ontology/tvComId" : [ ],
+        "http://dbpedia.org/ontology/giniCoefficient" : [ ],
+        "http://dbpedia.org/ontology/percentageLiteracyMen" : [ ],
+        "http://dbpedia.org/ontology/age" : [ ],
+       
+}
+
+"szxcwer34t4jtdfg":{
+        "uri": "http://dbpedia.org/ontology/usk",
+        "literals": [
+            12, 18, 18, 16, 16, 16, 18, 18, 18, 18, 18, 12, 12, 18, 18, 18, 18, 18, 6, 18, 18, 18, 18, 18, 18, 18, 12, 16, 16, 18, 18, 18, 16, 18, 0, 18, 18, 18, 16, 12, 18, 18, 0, 0, 0, 0, 0, 18, 0, 0, 0, 16, 18, 18, 18, 16, 18, 18, 18,
+            12, 18, 18, 0, 0, 18, 6, 6, 0, 16, 18, 16, 16, 18, 16, 12, 18, 0, 0, 12, 16, 12, 12, 6, 0, 16, 12, 12, 0, 0, 18, 0, 0, 18, 18, 18, 12, 18, 18, 18, 18, 0, 0, 0, 0, 0, 0, 0, 16, 18, 0, 6, 0, 16, 12, 16, 16, 0
+        ]
+    },
+    "s7dfasf2qdsg4578ggqs7d":{
+        "uri": "http://dbpedia.org/ontology/giniCoefficient",
+        "literals": [
+            517, 4000, 4460, 3960, 10610, 8450, 3090, 43740, 46710, 5180, 21879, 20475, 640, 6030, 45420, 3740, 750, 1920, 1790, 4790, 6890, 9390, 31238, 6240, 550, 160, 760, 1160, 46215, 3160, 460, 600, 9940, 4260, 5510, 820, 180, 2310, 6580, 1070, 13760, 28237, 17870, 58980, 1383, 4960, 4860, 4510, 2340, 3360, 14680, 340, 14360, 380, 3610, 47170, 42390, 7760, 440, 2690, 43330, 1240, 27240, 5560, 2740, 380, 540, 3270, 
+            650, 1880, 32900, 12990, 33870, 1340, 2580, 4741, 2320, 40990, 27340, 35090, 4750, 42150, 4350, 7440, 780, 2010, 19890, 3300, 36412, 880, 1010, 11620, 9020, 1080, 190, 11400, 79510, 4520, 440, 330, 7900, 4270, 600, 2990, 1060, 7740, 9330, 2700, 1810, 1890, 6690, 2850, 440, 4650, 490, 49720, 32145, 1080, 360, 1180, 85380, 18657, 1050, 6460, 6990, 1300, 2940, 4710, 2050, 12420, 21860, 17280, 76168, 7840, 9910, 540, 2930, 1200, 16995.78, 1050, 5820, 9490, 340, 40920, 16220, 23860, 1030, 6100, 31650, 2290, 9980, 4970, 4850, 1270, 6975, 2600, 49930, 70350, 2640, 18458, 780, 530, 4210, 2200, 440, 3380, 15380, 4070, 9500, 490, 3010, 59716.85, 38540, 47140, 10590, 1280, 2760, 11590, 1100, 1523, 1060, 1070, 460
+        ]
+    }

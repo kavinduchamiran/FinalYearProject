@@ -1,0 +1,4 @@
+http://dbpedia.org/ontology/Currency,currency,True,1
+http://dbpedia.org/ontology/code,numeric code,False,3
+http://dbpedia.org/ontology/usingCountry,entity,False,0
+http://dbpedia.org/ontology/currencyCode,alphabetic code,False,2

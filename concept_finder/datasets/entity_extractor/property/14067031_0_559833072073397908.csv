@@ -1,0 +1,5 @@
+http://dbpedia.org/ontology/date,date ofindependence,False,3
+http://dbpedia.org/ontology/officialLanguage,official language,False,1
+http://dbpedia.org/ontology/currency,name ofcurrency,False,7
+http://dbpedia.org/ontology/Country,oaustate,True,0
+http://dbpedia.org/ontology/capital,capital,False,5

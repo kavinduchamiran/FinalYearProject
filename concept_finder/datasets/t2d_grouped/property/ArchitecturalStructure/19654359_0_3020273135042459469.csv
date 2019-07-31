@@ -1,0 +1,3 @@
+http://dbpedia.org/ontology/Airport,airport name,True,1
+http://dbpedia.org/ontology/city,city,False,2
+http://dbpedia.org/ontology/iataLocationIdentifier,code,False,0

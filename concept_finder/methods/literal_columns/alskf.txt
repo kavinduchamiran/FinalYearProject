@@ -1,0 +1,830 @@
+http://dbpedia.org/resource/SV_Werder_Bremen_II__Alexander_Hahn__1 http://dbpedia.org/ontology/currentMember does not look like a valid URI, trying to serialize this
+will break.
+http://dbpedia.org/resource/SV_Werder_Bremen_II__Alexander_Hahn__1 http://dbpedia.org/ontology/currentMember  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/SV_Werder_Bremen_II__Alexander_Hahn__1 http://dbpedia.org/ontology/currentMember http://dbpedia.org/resource/Alexander_Hahn does not look
+like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/SV_Werder_Bremen_II__Alexander_Hahn__1 http://dbpedia.org/ontology/currentMember http://dbpedia.org/resource/Alexander_Hahn does not look
+like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/SV_Werder_Bremen_II__Alexander_Hahn__1 http://dbpedia.org/ontology/currentMember http://dbpedia.org/resource/Alexander_Hahn
+http://dbpedia.org/resource/Anton_Ognyanov__6  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Anton_Ognyanov__6 http://dbpedia.org/ontology/years does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Anton_Ognyanov__6 http://dbpedia.org/ontology/years does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Anton_Ognyanov__6 http://dbpedia.org/ontology/years  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Anton_Ognyanov__6 http://dbpedia.org/ontology/years 2010-01-01 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Anton_Ognyanov__6 http://dbpedia.org/ontology/years 2010-01-01
+http://dbpedia.org/resource/Tabacalera  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Tabacalera http://dbpedia.org/ontology/product does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Tabacalera http://dbpedia.org/ontology/product does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Tabacalera http://dbpedia.org/ontology/product  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Tabacalera http://dbpedia.org/ontology/product http://dbpedia.org/resource/Fortuna_(cigarette) does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Tabacalera http://dbpedia.org/ontology/product http://dbpedia.org/resource/Fortuna_(cigarette) does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Tabacalera http://dbpedia.org/ontology/product http://dbpedia.org/resource/Fortuna_(cigarette)
+http://dbpedia.org/resource/Sakura_Samurai:_Art_of_the_Sword  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sakura_Samurai:_Art_of_the_Sword http://dbpedia.org/ontology/computingPlatform does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sakura_Samurai:_Art_of_the_Sword http://dbpedia.org/ontology/computingPlatform does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sakura_Samurai:_Art_of_the_Sword http://dbpedia.org/ontology/computingPlatform  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sakura_Samurai:_Art_of_the_Sword http://dbpedia.org/ontology/computingPlatform http://dbpedia.org/resource/Nintendo_eShop does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sakura_Samurai:_Art_of_the_Sword http://dbpedia.org/ontology/computingPlatform http://dbpedia.org/resource/Nintendo_eShop does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sakura_Samurai:_Art_of_the_Sword http://dbpedia.org/ontology/computingPlatform http://dbpedia.org/resource/Nintendo_eShop
+http://dbpedia.org/resource/Cerezo_Osaka_Sakai_Ladies__hiho_Matsubara__1  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cerezo_Osaka_Sakai_Ladies__hiho_Matsubara__1 http://dbpedia.org/ontology/currentMember does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cerezo_Osaka_Sakai_Ladies__hiho_Matsubara__1 http://dbpedia.org/ontology/currentMember does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cerezo_Osaka_Sakai_Ladies__hiho_Matsubara__1 http://dbpedia.org/ontology/currentMember  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cerezo_Osaka_Sakai_Ladies__hiho_Matsubara__1 http://dbpedia.org/ontology/currentMember http://dbpedia.org/resource/Shiho_Matsubara does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cerezo_Osaka_Sakai_Ladies__hiho_Matsubara__1 http://dbpedia.org/ontology/currentMember http://dbpedia.org/resource/Shiho_Matsubara does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cerezo_Osaka_Sakai_Ladies__hiho_Matsubara__1 http://dbpedia.org/ontology/currentMember http://dbpedia.org/resource/Shiho_Matsubara
+http://dbpedia.org/resource/2006%E2%80%9307_VfB_Stuttgart_season__Cacau__1  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/2006%E2%80%9307_VfB_Stuttgart_season__Cacau__1 http://dbpedia.org/ontology/squadNumber does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/2006%E2%80%9307_VfB_Stuttgart_season__Cacau__1 http://dbpedia.org/ontology/squadNumber does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/2006%E2%80%9307_VfB_Stuttgart_season__Cacau__1 http://dbpedia.org/ontology/squadNumber  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/2006%E2%80%9307_VfB_Stuttgart_season__Cacau__1 http://dbpedia.org/ontology/squadNumber 18 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/2006%E2%80%9307_VfB_Stuttgart_season__Cacau__1 http://dbpedia.org/ontology/squadNumber 18
+http://dbpedia.org/resource/Goran_Vi%C5%A1nji%C4%87  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Goran_Vi%C5%A1nji%C4%87 http://dbpedia.org/ontology/award does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Goran_Vi%C5%A1nji%C4%87 http://dbpedia.org/ontology/award does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Goran_Vi%C5%A1nji%C4%87 http://dbpedia.org/ontology/award  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Goran_Vi%C5%A1nji%C4%87 http://dbpedia.org/ontology/award http://dbpedia.org/resource/Orlando_Award does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Goran_Vi%C5%A1nji%C4%87 http://dbpedia.org/ontology/award http://dbpedia.org/resource/Orlando_Award does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Goran_Vi%C5%A1nji%C4%87 http://dbpedia.org/ontology/award http://dbpedia.org/resource/Orlando_Award
+http://dbpedia.org/resource/Al_Jazira_Club__Abdullah_Qasem__1  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Al_Jazira_Club__Abdullah_Qasem__1 http://dbpedia.org/ontology/currentMember does not look like a valid URI, trying to serialize this will
+break.
+http://dbpedia.org/resource/Al_Jazira_Club__Abdullah_Qasem__1 http://dbpedia.org/ontology/currentMember does not look like a valid URI, trying to serialize this will
+break.
+http://dbpedia.org/resource/Al_Jazira_Club__Abdullah_Qasem__1 http://dbpedia.org/ontology/currentMember  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Al_Jazira_Club__Abdullah_Qasem__1 http://dbpedia.org/ontology/currentMember http://dbpedia.org/resource/Abdullah_Qasem does not look like
+a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Al_Jazira_Club__Abdullah_Qasem__1 http://dbpedia.org/ontology/currentMember http://dbpedia.org/resource/Abdullah_Qasem does not look like
+a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Al_Jazira_Club__Abdullah_Qasem__1 http://dbpedia.org/ontology/currentMember http://dbpedia.org/resource/Abdullah_Qasem
+http://dbpedia.org/resource/Linda_bei_Neustadt_an_der_Orla  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Linda_bei_Neustadt_an_der_Orla http://dbpedia.org/ontology/populationAsOf does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Linda_bei_Neustadt_an_der_Orla http://dbpedia.org/ontology/populationAsOf does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Linda_bei_Neustadt_an_der_Orla http://dbpedia.org/ontology/populationAsOf  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Linda_bei_Neustadt_an_der_Orla http://dbpedia.org/ontology/populationAsOf 2006-12-31 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Linda_bei_Neustadt_an_der_Orla http://dbpedia.org/ontology/populationAsOf 2006-12-31
+http://dbpedia.org/resource/San_Gemini  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/San_Gemini http://dbpedia.org/ontology/areaCode does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/San_Gemini http://dbpedia.org/ontology/areaCode does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/San_Gemini http://dbpedia.org/ontology/areaCode  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/San_Gemini http://dbpedia.org/ontology/areaCode 0744 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/San_Gemini http://dbpedia.org/ontology/areaCode 0744
+http://dbpedia.org/resource/Amby_Fogarty__4  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Amby_Fogarty__4 http://dbpedia.org/ontology/numberOfMatches does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Amby_Fogarty__4 http://dbpedia.org/ontology/numberOfMatches does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Amby_Fogarty__4 http://dbpedia.org/ontology/numberOfMatches  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Amby_Fogarty__4 http://dbpedia.org/ontology/numberOfMatches 127 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Amby_Fogarty__4 http://dbpedia.org/ontology/numberOfMatches 127
+http://dbpedia.org/resource/Microtheoris  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Microtheoris http://dbpedia.org/ontology/class does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Microtheoris http://dbpedia.org/ontology/class does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Microtheoris http://dbpedia.org/ontology/class  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Microtheoris http://dbpedia.org/ontology/class http://dbpedia.org/resource/Insect does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Microtheoris http://dbpedia.org/ontology/class http://dbpedia.org/resource/Insect does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Microtheoris http://dbpedia.org/ontology/class http://dbpedia.org/resource/Insect
+http://dbpedia.org/resource/Russian_State_University_for_the_Humanities  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Russian_State_University_for_the_Humanities http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Russian_State_University_for_the_Humanities http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Russian_State_University_for_the_Humanities http://xmlns.com/foaf/0.1/name  does not look like a valid URI, trying to serialize this will
+break.
+http://dbpedia.org/resource/Russian_State_University_for_the_Humanities http://xmlns.com/foaf/0.1/name Russian State University for the Humanities does not look like
+a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Russian_State_University_for_the_Humanities http://xmlns.com/foaf/0.1/name Russian State University for the Humanities
+http://dbpedia.org/resource/Makira_flying_fox  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Makira_flying_fox http://dbpedia.org/ontology/conservationStatus does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Makira_flying_fox http://dbpedia.org/ontology/conservationStatus does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Makira_flying_fox http://dbpedia.org/ontology/conservationStatus  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Makira_flying_fox http://dbpedia.org/ontology/conservationStatus EN does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Makira_flying_fox http://dbpedia.org/ontology/conservationStatus EN
+http://dbpedia.org/resource/KIHL-LP  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/KIHL-LP http://dbpedia.org/ontology/owner does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/KIHL-LP http://dbpedia.org/ontology/owner does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/KIHL-LP http://dbpedia.org/ontology/owner  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/KIHL-LP http://dbpedia.org/ontology/owner http://dbpedia.org/resource/Calvary_Chapel does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/KIHL-LP http://dbpedia.org/ontology/owner http://dbpedia.org/resource/Calvary_Chapel does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/KIHL-LP http://dbpedia.org/ontology/owner http://dbpedia.org/resource/Calvary_Chapel
+http://dbpedia.org/resource/7777_Consadole  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/7777_Consadole http://dbpedia.org/ontology/orbitalPeriod does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/7777_Consadole http://dbpedia.org/ontology/orbitalPeriod does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/7777_Consadole http://dbpedia.org/ontology/orbitalPeriod  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/7777_Consadole http://dbpedia.org/ontology/orbitalPeriod 111499452.91872 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/7777_Consadole http://dbpedia.org/ontology/orbitalPeriod 111499452.91872
+http://dbpedia.org/resource/Jerry_Pinkney  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Jerry_Pinkney http://dbpedia.org/ontology/birthDate does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Jerry_Pinkney http://dbpedia.org/ontology/birthDate does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Jerry_Pinkney http://dbpedia.org/ontology/birthDate  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Jerry_Pinkney http://dbpedia.org/ontology/birthDate 1939-12-22 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Jerry_Pinkney http://dbpedia.org/ontology/birthDate 1939-12-22
+http://dbpedia.org/resource/Wolfgang_Gr%C3%B6nebaum  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Wolfgang_Gr%C3%B6nebaum http://dbpedia.org/ontology/deathPlace does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Wolfgang_Gr%C3%B6nebaum http://dbpedia.org/ontology/deathPlace does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Wolfgang_Gr%C3%B6nebaum http://dbpedia.org/ontology/deathPlace  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Wolfgang_Gr%C3%B6nebaum http://dbpedia.org/ontology/deathPlace http://dbpedia.org/resource/Germany does not look like a valid URI, trying
+to serialize this will break.
+http://dbpedia.org/resource/Wolfgang_Gr%C3%B6nebaum http://dbpedia.org/ontology/deathPlace http://dbpedia.org/resource/Germany does not look like a valid URI, trying
+to serialize this will break.
+http://dbpedia.org/resource/Wolfgang_Gr%C3%B6nebaum http://dbpedia.org/ontology/deathPlace http://dbpedia.org/resource/Germany
+http://dbpedia.org/resource/Ectoedemia_tadshikiella  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ectoedemia_tadshikiella http://dbpedia.org/ontology/order does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ectoedemia_tadshikiella http://dbpedia.org/ontology/order does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ectoedemia_tadshikiella http://dbpedia.org/ontology/order  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ectoedemia_tadshikiella http://dbpedia.org/ontology/order http://dbpedia.org/resource/Lepidoptera does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ectoedemia_tadshikiella http://dbpedia.org/ontology/order http://dbpedia.org/resource/Lepidoptera does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ectoedemia_tadshikiella http://dbpedia.org/ontology/order http://dbpedia.org/resource/Lepidoptera
+http://dbpedia.org/resource/2008_Santos_FC_season  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/2008_Santos_FC_season http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/2008_Santos_FC_season http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/2008_Santos_FC_season http://dbpedia.org/ontology/team  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/2008_Santos_FC_season http://dbpedia.org/ontology/team http://dbpedia.org/resource/Santos_FC does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/2008_Santos_FC_season http://dbpedia.org/ontology/team http://dbpedia.org/resource/Santos_FC does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/2008_Santos_FC_season http://dbpedia.org/ontology/team http://dbpedia.org/resource/Santos_FC
+http://dbpedia.org/resource/Edelweiss_(skyscraper)  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Edelweiss_(skyscraper) http://dbpedia.org/ontology/location does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Edelweiss_(skyscraper) http://dbpedia.org/ontology/location does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Edelweiss_(skyscraper) http://dbpedia.org/ontology/location  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Edelweiss_(skyscraper) http://dbpedia.org/ontology/location http://dbpedia.org/resource/Moscow does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Edelweiss_(skyscraper) http://dbpedia.org/ontology/location http://dbpedia.org/resource/Moscow does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Edelweiss_(skyscraper) http://dbpedia.org/ontology/location http://dbpedia.org/resource/Moscow
+http://dbpedia.org/resource/Brookside,_Ohio  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Brookside,_Ohio http://dbpedia.org/ontology/areaTotal does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Brookside,_Ohio http://dbpedia.org/ontology/areaTotal does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Brookside,_Ohio http://dbpedia.org/ontology/areaTotal  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Brookside,_Ohio http://dbpedia.org/ontology/areaTotal 440000.0 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Brookside,_Ohio http://dbpedia.org/ontology/areaTotal 440000.0
+http://dbpedia.org/resource/Cyclophyllum_longipetalum  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cyclophyllum_longipetalum http://dbpedia.org/ontology/family does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cyclophyllum_longipetalum http://dbpedia.org/ontology/family does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cyclophyllum_longipetalum http://dbpedia.org/ontology/family  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cyclophyllum_longipetalum http://dbpedia.org/ontology/family http://dbpedia.org/resource/Vanguerieae does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cyclophyllum_longipetalum http://dbpedia.org/ontology/family http://dbpedia.org/resource/Vanguerieae does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cyclophyllum_longipetalum http://dbpedia.org/ontology/family http://dbpedia.org/resource/Vanguerieae
+http://dbpedia.org/resource/Erie,_North_Dakota  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Erie,_North_Dakota http://dbpedia.org/ontology/type does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Erie,_North_Dakota http://dbpedia.org/ontology/type does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Erie,_North_Dakota http://dbpedia.org/ontology/type  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Erie,_North_Dakota http://dbpedia.org/ontology/type http://dbpedia.org/resource/Census-designated_place does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Erie,_North_Dakota http://dbpedia.org/ontology/type http://dbpedia.org/resource/Census-designated_place does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Erie,_North_Dakota http://dbpedia.org/ontology/type http://dbpedia.org/resource/Census-designated_place
+http://dbpedia.org/resource/Ackim_Musenge  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ackim_Musenge http://dbpedia.org/ontology/careerStation does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ackim_Musenge http://dbpedia.org/ontology/careerStation does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ackim_Musenge http://dbpedia.org/ontology/careerStation  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ackim_Musenge http://dbpedia.org/ontology/careerStation http://dbpedia.org/resource/Ackim_Musenge__7 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ackim_Musenge http://dbpedia.org/ontology/careerStation http://dbpedia.org/resource/Ackim_Musenge__7 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ackim_Musenge http://dbpedia.org/ontology/careerStation http://dbpedia.org/resource/Ackim_Musenge__7
+http://dbpedia.org/resource/John_Speed  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/John_Speed http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/John_Speed http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/John_Speed http://xmlns.com/foaf/0.1/name  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/John_Speed http://xmlns.com/foaf/0.1/name John Speed does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/John_Speed http://xmlns.com/foaf/0.1/name John Speed
+http://dbpedia.org/resource/Atari_Bigby  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Atari_Bigby http://dbpedia.org/ontology/status does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Atari_Bigby http://dbpedia.org/ontology/status does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Atari_Bigby http://dbpedia.org/ontology/status  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Atari_Bigby http://dbpedia.org/ontology/status Free Agent does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Atari_Bigby http://dbpedia.org/ontology/status Free Agent
+http://dbpedia.org/resource/Igor_Chernyshov  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Igor_Chernyshov http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Igor_Chernyshov http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Igor_Chernyshov http://dbpedia.org/ontology/team  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Igor_Chernyshov http://dbpedia.org/ontology/team http://dbpedia.org/resource/FC_Rostov does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Igor_Chernyshov http://dbpedia.org/ontology/team http://dbpedia.org/resource/FC_Rostov does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Igor_Chernyshov http://dbpedia.org/ontology/team http://dbpedia.org/resource/FC_Rostov
+http://dbpedia.org/resource/Madhoganj  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Madhoganj http://dbpedia.org/ontology/utcOffset does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Madhoganj http://dbpedia.org/ontology/utcOffset does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Madhoganj http://dbpedia.org/ontology/utcOffset  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Madhoganj http://dbpedia.org/ontology/utcOffset +5:30 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Madhoganj http://dbpedia.org/ontology/utcOffset +5:30
+http://dbpedia.org/resource/Castlemartyr  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Castlemartyr http://dbpedia.org/ontology/isPartOf does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Castlemartyr http://dbpedia.org/ontology/isPartOf does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Castlemartyr http://dbpedia.org/ontology/isPartOf  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Castlemartyr http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/County_Cork does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Castlemartyr http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/County_Cork does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Castlemartyr http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/County_Cork
+http://dbpedia.org/resource/Arnar_Vi%C3%B0arsson__1  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Arnar_Vi%C3%B0arsson__1 http://dbpedia.org/ontology/years does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Arnar_Vi%C3%B0arsson__1 http://dbpedia.org/ontology/years does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Arnar_Vi%C3%B0arsson__1 http://dbpedia.org/ontology/years  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Arnar_Vi%C3%B0arsson__1 http://dbpedia.org/ontology/years 1996-01-01 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Arnar_Vi%C3%B0arsson__1 http://dbpedia.org/ontology/years 1996-01-01
+http://dbpedia.org/resource/Trane_Whistle  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Trane_Whistle http://dbpedia.org/ontology/recordedIn does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Trane_Whistle http://dbpedia.org/ontology/recordedIn does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Trane_Whistle http://dbpedia.org/ontology/recordedIn  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Trane_Whistle http://dbpedia.org/ontology/recordedIn http://dbpedia.org/resource/Van_Gelder_Studio does not look like a valid URI, trying
+to serialize this will break.
+http://dbpedia.org/resource/Trane_Whistle http://dbpedia.org/ontology/recordedIn http://dbpedia.org/resource/Van_Gelder_Studio does not look like a valid URI, trying
+to serialize this will break.
+http://dbpedia.org/resource/Trane_Whistle http://dbpedia.org/ontology/recordedIn http://dbpedia.org/resource/Van_Gelder_Studio
+http://dbpedia.org/resource/Ars%C3%A8ne_Millocheau  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ars%C3%A8ne_Millocheau http://dbpedia.org/ontology/deathDate does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ars%C3%A8ne_Millocheau http://dbpedia.org/ontology/deathDate does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ars%C3%A8ne_Millocheau http://dbpedia.org/ontology/deathDate  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ars%C3%A8ne_Millocheau http://dbpedia.org/ontology/deathDate 1948-05-04 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ars%C3%A8ne_Millocheau http://dbpedia.org/ontology/deathDate 1948-05-04
+http://dbpedia.org/resource/Neil_Smillie__2  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Neil_Smillie__2 http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Neil_Smillie__2 http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Neil_Smillie__2 http://dbpedia.org/ontology/team  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Neil_Smillie__2 http://dbpedia.org/ontology/team http://dbpedia.org/resource/Crystal_Palace_F.C. does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Neil_Smillie__2 http://dbpedia.org/ontology/team http://dbpedia.org/resource/Crystal_Palace_F.C. does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Neil_Smillie__2 http://dbpedia.org/ontology/team http://dbpedia.org/resource/Crystal_Palace_F.C.
+http://dbpedia.org/resource/Sheykhabad,_South_Khorasan  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sheykhabad,_South_Khorasan http://www.w3.org/2003/01/geo/wgs84_pos#long does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sheykhabad,_South_Khorasan http://www.w3.org/2003/01/geo/wgs84_pos#long does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sheykhabad,_South_Khorasan http://www.w3.org/2003/01/geo/wgs84_pos#long  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sheykhabad,_South_Khorasan http://www.w3.org/2003/01/geo/wgs84_pos#long 59.0275 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sheykhabad,_South_Khorasan http://www.w3.org/2003/01/geo/wgs84_pos#long 59.0275
+http://dbpedia.org/resource/A4_motorway_(Tunisia)  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/A4_motorway_(Tunisia) http://dbpedia.org/ontology/city does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/A4_motorway_(Tunisia) http://dbpedia.org/ontology/city does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/A4_motorway_(Tunisia) http://dbpedia.org/ontology/city  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/A4_motorway_(Tunisia) http://dbpedia.org/ontology/city http://dbpedia.org/resource/Menzel_Bourguiba does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/A4_motorway_(Tunisia) http://dbpedia.org/ontology/city http://dbpedia.org/resource/Menzel_Bourguiba does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/A4_motorway_(Tunisia) http://dbpedia.org/ontology/city http://dbpedia.org/resource/Menzel_Bourguiba
+http://dbpedia.org/resource/Simitar_Entertainment  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simitar_Entertainment http://dbpedia.org/ontology/subsidiary does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simitar_Entertainment http://dbpedia.org/ontology/subsidiary does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simitar_Entertainment http://dbpedia.org/ontology/subsidiary  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simitar_Entertainment http://dbpedia.org/ontology/subsidiary http://dbpedia.org/resource/Pickwick_Records does not look like a valid URI,
+trying to serialize this will break.
+http://dbpedia.org/resource/Simitar_Entertainment http://dbpedia.org/ontology/subsidiary http://dbpedia.org/resource/Pickwick_Records does not look like a valid URI,
+trying to serialize this will break.
+http://dbpedia.org/resource/Simitar_Entertainment http://dbpedia.org/ontology/subsidiary http://dbpedia.org/resource/Pickwick_Records
+http://dbpedia.org/resource/John_Hamburg  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/John_Hamburg http://dbpedia.org/ontology/birthDate does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/John_Hamburg http://dbpedia.org/ontology/birthDate does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/John_Hamburg http://dbpedia.org/ontology/birthDate  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/John_Hamburg http://dbpedia.org/ontology/birthDate 1970-05-26 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/John_Hamburg http://dbpedia.org/ontology/birthDate 1970-05-26
+http://dbpedia.org/resource/1978%E2%80%9379_Huddersfield_Town_F.C._season__Terry_Gray__1  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/1978%E2%80%9379_Huddersfield_Town_F.C._season__Terry_Gray__1 http://dbpedia.org/ontology/position does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/1978%E2%80%9379_Huddersfield_Town_F.C._season__Terry_Gray__1 http://dbpedia.org/ontology/position does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/1978%E2%80%9379_Huddersfield_Town_F.C._season__Terry_Gray__1 http://dbpedia.org/ontology/position  does not look like a valid URI, trying
+to serialize this will break.
+http://dbpedia.org/resource/1978%E2%80%9379_Huddersfield_Town_F.C._season__Terry_Gray__1 http://dbpedia.org/ontology/position FW does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/1978%E2%80%9379_Huddersfield_Town_F.C._season__Terry_Gray__1 http://dbpedia.org/ontology/position FW
+http://dbpedia.org/resource/King_Edward's_School,_Bath  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/King_Edward's_School,_Bath http://dbpedia.org/ontology/staff does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/King_Edward's_School,_Bath http://dbpedia.org/ontology/staff does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/King_Edward's_School,_Bath http://dbpedia.org/ontology/staff  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/King_Edward's_School,_Bath http://dbpedia.org/ontology/staff 70 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/King_Edward's_School,_Bath http://dbpedia.org/ontology/staff 70
+http://dbpedia.org/resource/Sandeep_Khare  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sandeep_Khare http://dbpedia.org/ontology/occupation does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sandeep_Khare http://dbpedia.org/ontology/occupation does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sandeep_Khare http://dbpedia.org/ontology/occupation  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sandeep_Khare http://dbpedia.org/ontology/occupation http://dbpedia.org/resource/Singer-songwriter does not look like a valid URI, trying
+to serialize this will break.
+http://dbpedia.org/resource/Sandeep_Khare http://dbpedia.org/ontology/occupation http://dbpedia.org/resource/Singer-songwriter does not look like a valid URI, trying
+to serialize this will break.
+http://dbpedia.org/resource/Sandeep_Khare http://dbpedia.org/ontology/occupation http://dbpedia.org/resource/Singer-songwriter
+http://dbpedia.org/resource/Strange_Circus  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Strange_Circus http://dbpedia.org/ontology/director does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Strange_Circus http://dbpedia.org/ontology/director does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Strange_Circus http://dbpedia.org/ontology/director  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Strange_Circus http://dbpedia.org/ontology/director http://dbpedia.org/resource/Sion_Sono does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Strange_Circus http://dbpedia.org/ontology/director http://dbpedia.org/resource/Sion_Sono does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Strange_Circus http://dbpedia.org/ontology/director http://dbpedia.org/resource/Sion_Sono
+http://dbpedia.org/resource/Dane_Cook:_Vicious_Circle  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Dane_Cook:_Vicious_Circle http://dbpedia.org/ontology/runtime does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Dane_Cook:_Vicious_Circle http://dbpedia.org/ontology/runtime does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Dane_Cook:_Vicious_Circle http://dbpedia.org/ontology/runtime  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Dane_Cook:_Vicious_Circle http://dbpedia.org/ontology/runtime 7920.0 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Dane_Cook:_Vicious_Circle http://dbpedia.org/ontology/runtime 7920.0
+http://dbpedia.org/resource/K%C3%A9vin_Rodrigues__5  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/K%C3%A9vin_Rodrigues__5 http://dbpedia.org/ontology/numberOfGoals does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/K%C3%A9vin_Rodrigues__5 http://dbpedia.org/ontology/numberOfGoals does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/K%C3%A9vin_Rodrigues__5 http://dbpedia.org/ontology/numberOfGoals  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/K%C3%A9vin_Rodrigues__5 http://dbpedia.org/ontology/numberOfGoals 1 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/K%C3%A9vin_Rodrigues__5 http://dbpedia.org/ontology/numberOfGoals 1
+http://dbpedia.org/resource/Porno_Valley  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Porno_Valley http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Porno_Valley http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Porno_Valley http://xmlns.com/foaf/0.1/name  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Porno_Valley http://xmlns.com/foaf/0.1/name Porno Valley does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Porno_Valley http://xmlns.com/foaf/0.1/name Porno Valley
+http://dbpedia.org/resource/La_Esquina_del_Infinito  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/La_Esquina_del_Infinito http://dbpedia.org/ontology/subsequentWork does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/La_Esquina_del_Infinito http://dbpedia.org/ontology/subsequentWork does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/La_Esquina_del_Infinito http://dbpedia.org/ontology/subsequentWork  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/La_Esquina_del_Infinito http://dbpedia.org/ontology/subsequentWork http://dbpedia.org/resource/Insoportablemente_Vivo does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/La_Esquina_del_Infinito http://dbpedia.org/ontology/subsequentWork http://dbpedia.org/resource/Insoportablemente_Vivo does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/La_Esquina_del_Infinito http://dbpedia.org/ontology/subsequentWork http://dbpedia.org/resource/Insoportablemente_Vivo
+http://dbpedia.org/resource/Takeshi_Motoyoshi  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Takeshi_Motoyoshi http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Takeshi_Motoyoshi http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Takeshi_Motoyoshi http://dbpedia.org/ontology/team  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Takeshi_Motoyoshi http://dbpedia.org/ontology/team http://dbpedia.org/resource/Tokushima_Vortis does not look like a valid URI, trying to
+serialize this will break.
+http://dbpedia.org/resource/Takeshi_Motoyoshi http://dbpedia.org/ontology/team http://dbpedia.org/resource/Tokushima_Vortis does not look like a valid URI, trying to
+serialize this will break.
+http://dbpedia.org/resource/Takeshi_Motoyoshi http://dbpedia.org/ontology/team http://dbpedia.org/resource/Tokushima_Vortis
+http://dbpedia.org/resource/Sterling_Wescott__7  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sterling_Wescott__7 http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sterling_Wescott__7 http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sterling_Wescott__7 http://dbpedia.org/ontology/team  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sterling_Wescott__7 http://dbpedia.org/ontology/team http://dbpedia.org/resource/Clovis_West_High_School does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sterling_Wescott__7 http://dbpedia.org/ontology/team http://dbpedia.org/resource/Clovis_West_High_School does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sterling_Wescott__7 http://dbpedia.org/ontology/team http://dbpedia.org/resource/Clovis_West_High_School
+http://dbpedia.org/resource/Atlanta_Silverbacks_Women__Elizabeth_Hamersly__1  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Atlanta_Silverbacks_Women__Elizabeth_Hamersly__1 http://dbpedia.org/ontology/currentMember does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Atlanta_Silverbacks_Women__Elizabeth_Hamersly__1 http://dbpedia.org/ontology/currentMember does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Atlanta_Silverbacks_Women__Elizabeth_Hamersly__1 http://dbpedia.org/ontology/currentMember  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Atlanta_Silverbacks_Women__Elizabeth_Hamersly__1 http://dbpedia.org/ontology/currentMember http://dbpedia.org/resource/Elizabeth_Hamersly
+does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Atlanta_Silverbacks_Women__Elizabeth_Hamersly__1 http://dbpedia.org/ontology/currentMember http://dbpedia.org/resource/Elizabeth_Hamersly
+does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Atlanta_Silverbacks_Women__Elizabeth_Hamersly__1 http://dbpedia.org/ontology/currentMember http://dbpedia.org/resource/Elizabeth_Hamersly
+http://dbpedia.org/resource/Vitus_Bering_(icebreaker)  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vitus_Bering_(icebreaker) http://dbpedia.org/ontology/operator does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vitus_Bering_(icebreaker) http://dbpedia.org/ontology/operator does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vitus_Bering_(icebreaker) http://dbpedia.org/ontology/operator  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vitus_Bering_(icebreaker) http://dbpedia.org/ontology/operator http://dbpedia.org/resource/Sovcomflot does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vitus_Bering_(icebreaker) http://dbpedia.org/ontology/operator http://dbpedia.org/resource/Sovcomflot does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vitus_Bering_(icebreaker) http://dbpedia.org/ontology/operator http://dbpedia.org/resource/Sovcomflot
+http://dbpedia.org/resource/Civrac-en-M%C3%A9doc  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Civrac-en-M%C3%A9doc http://dbpedia.org/ontology/minimumElevation does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Civrac-en-M%C3%A9doc http://dbpedia.org/ontology/minimumElevation does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Civrac-en-M%C3%A9doc http://dbpedia.org/ontology/minimumElevation  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Civrac-en-M%C3%A9doc http://dbpedia.org/ontology/minimumElevation 6.0 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Civrac-en-M%C3%A9doc http://dbpedia.org/ontology/minimumElevation 6.0
+http://dbpedia.org/resource/Nathan_Bassett  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Nathan_Bassett http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Nathan_Bassett http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Nathan_Bassett http://xmlns.com/foaf/0.1/name  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Nathan_Bassett http://xmlns.com/foaf/0.1/name Nathan Bassett does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Nathan_Bassett http://xmlns.com/foaf/0.1/name Nathan Bassett
+http://dbpedia.org/resource/Pickhandle_barracuda  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Pickhandle_barracuda http://dbpedia.org/ontology/phylum does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Pickhandle_barracuda http://dbpedia.org/ontology/phylum does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Pickhandle_barracuda http://dbpedia.org/ontology/phylum  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Pickhandle_barracuda http://dbpedia.org/ontology/phylum http://dbpedia.org/resource/Chordate does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Pickhandle_barracuda http://dbpedia.org/ontology/phylum http://dbpedia.org/resource/Chordate does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Pickhandle_barracuda http://dbpedia.org/ontology/phylum http://dbpedia.org/resource/Chordate
+http://dbpedia.org/resource/Andreas_Papaemmanouil__2  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Andreas_Papaemmanouil__2 http://dbpedia.org/ontology/numberOfMatches does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Andreas_Papaemmanouil__2 http://dbpedia.org/ontology/numberOfMatches does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Andreas_Papaemmanouil__2 http://dbpedia.org/ontology/numberOfMatches  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Andreas_Papaemmanouil__2 http://dbpedia.org/ontology/numberOfMatches 193 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Andreas_Papaemmanouil__2 http://dbpedia.org/ontology/numberOfMatches 193
+http://dbpedia.org/resource/Ralphsynder_Decagonal_Barn  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ralphsynder_Decagonal_Barn http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ralphsynder_Decagonal_Barn http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ralphsynder_Decagonal_Barn http://xmlns.com/foaf/0.1/name  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ralphsynder_Decagonal_Barn http://xmlns.com/foaf/0.1/name Ralphsynder Decagonal Barn does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ralphsynder_Decagonal_Barn http://xmlns.com/foaf/0.1/name Ralphsynder Decagonal Barn
+http://dbpedia.org/resource/Scopula_apicipunctata  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Scopula_apicipunctata http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Scopula_apicipunctata http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Scopula_apicipunctata http://xmlns.com/foaf/0.1/name  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Scopula_apicipunctata http://xmlns.com/foaf/0.1/name Scopula apicipunctata does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Scopula_apicipunctata http://xmlns.com/foaf/0.1/name Scopula apicipunctata
+http://dbpedia.org/resource/Vlkanov%C3%A1  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vlkanov%C3%A1 http://dbpedia.org/ontology/populationTotal does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vlkanov%C3%A1 http://dbpedia.org/ontology/populationTotal does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vlkanov%C3%A1 http://dbpedia.org/ontology/populationTotal  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vlkanov%C3%A1 http://dbpedia.org/ontology/populationTotal 1080 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vlkanov%C3%A1 http://dbpedia.org/ontology/populationTotal 1080
+http://dbpedia.org/resource/Pittsburgh_IAP_Air_Reserve_Station__Airfield_information__1  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Pittsburgh_IAP_Air_Reserve_Station__Airfield_information__1 http://dbpedia.org/ontology/runwaySurface does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Pittsburgh_IAP_Air_Reserve_Station__Airfield_information__1 http://dbpedia.org/ontology/runwaySurface does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Pittsburgh_IAP_Air_Reserve_Station__Airfield_information__1 http://dbpedia.org/ontology/runwaySurface  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Pittsburgh_IAP_Air_Reserve_Station__Airfield_information__1 http://dbpedia.org/ontology/runwaySurface Asphalt/Concrete does not look like
+a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Pittsburgh_IAP_Air_Reserve_Station__Airfield_information__1 http://dbpedia.org/ontology/runwaySurface Asphalt/Concrete
+http://dbpedia.org/resource/Byron_Carter  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Byron_Carter http://dbpedia.org/ontology/nationality does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Byron_Carter http://dbpedia.org/ontology/nationality does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Byron_Carter http://dbpedia.org/ontology/nationality  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Byron_Carter http://dbpedia.org/ontology/nationality http://dbpedia.org/resource/United_States does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Byron_Carter http://dbpedia.org/ontology/nationality http://dbpedia.org/resource/United_States does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Byron_Carter http://dbpedia.org/ontology/nationality http://dbpedia.org/resource/United_States
+http://dbpedia.org/resource/The_Moment_Before  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Moment_Before http://dbpedia.org/ontology/producer does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Moment_Before http://dbpedia.org/ontology/producer does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Moment_Before http://dbpedia.org/ontology/producer  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Moment_Before http://dbpedia.org/ontology/producer http://dbpedia.org/resource/Famous_Players_Film_Company does not look like a valid
+URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Moment_Before http://dbpedia.org/ontology/producer http://dbpedia.org/resource/Famous_Players_Film_Company does not look like a valid
+URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Moment_Before http://dbpedia.org/ontology/producer http://dbpedia.org/resource/Famous_Players_Film_Company
+http://dbpedia.org/resource/Acromyrmex_evenkul  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Acromyrmex_evenkul http://dbpedia.org/ontology/binomialAuthority does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Acromyrmex_evenkul http://dbpedia.org/ontology/binomialAuthority does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Acromyrmex_evenkul http://dbpedia.org/ontology/binomialAuthority  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Acromyrmex_evenkul http://dbpedia.org/ontology/binomialAuthority http://dbpedia.org/resource/Barry_Bolton does not look like a valid URI,
+trying to serialize this will break.
+http://dbpedia.org/resource/Acromyrmex_evenkul http://dbpedia.org/ontology/binomialAuthority http://dbpedia.org/resource/Barry_Bolton does not look like a valid URI,
+trying to serialize this will break.
+http://dbpedia.org/resource/Acromyrmex_evenkul http://dbpedia.org/ontology/binomialAuthority http://dbpedia.org/resource/Barry_Bolton
+http://dbpedia.org/resource/Abbasabad,_Gotvand  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Abbasabad,_Gotvand http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Abbasabad,_Gotvand http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Abbasabad,_Gotvand http://xmlns.com/foaf/0.1/name  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Abbasabad,_Gotvand http://xmlns.com/foaf/0.1/name Abbasabad does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Abbasabad,_Gotvand http://xmlns.com/foaf/0.1/name Abbasabad
+http://dbpedia.org/resource/Kodumudi  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Kodumudi http://dbpedia.org/ontology/areaCode does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Kodumudi http://dbpedia.org/ontology/areaCode does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Kodumudi http://dbpedia.org/ontology/areaCode  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Kodumudi http://dbpedia.org/ontology/areaCode 04204 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Kodumudi http://dbpedia.org/ontology/areaCode 04204
+http://dbpedia.org/resource/David_Graham_(footballer_born_1978)__2  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/David_Graham_(footballer_born_1978)__2 http://dbpedia.org/ontology/years does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/David_Graham_(footballer_born_1978)__2 http://dbpedia.org/ontology/years does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/David_Graham_(footballer_born_1978)__2 http://dbpedia.org/ontology/years  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/David_Graham_(footballer_born_1978)__2 http://dbpedia.org/ontology/years 1998-01-01 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/David_Graham_(footballer_born_1978)__2 http://dbpedia.org/ontology/years 1998-01-01
+http://dbpedia.org/resource/Civilization_(video_game)  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Civilization_(video_game) http://dbpedia.org/ontology/computingPlatform does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Civilization_(video_game) http://dbpedia.org/ontology/computingPlatform does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Civilization_(video_game) http://dbpedia.org/ontology/computingPlatform  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Civilization_(video_game) http://dbpedia.org/ontology/computingPlatform http://dbpedia.org/resource/Amiga does not look like a valid URI,
+trying to serialize this will break.
+http://dbpedia.org/resource/Civilization_(video_game) http://dbpedia.org/ontology/computingPlatform http://dbpedia.org/resource/Amiga does not look like a valid URI,
+trying to serialize this will break.
+http://dbpedia.org/resource/Civilization_(video_game) http://dbpedia.org/ontology/computingPlatform http://dbpedia.org/resource/Amiga
+http://dbpedia.org/resource/Walter_Paz  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Walter_Paz http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Walter_Paz http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Walter_Paz http://dbpedia.org/ontology/team  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Walter_Paz http://dbpedia.org/ontology/team http://dbpedia.org/resource/Quilmes_Atl%C3%A9tico_Club does not look like a valid URI, trying
+to serialize this will break.
+http://dbpedia.org/resource/Walter_Paz http://dbpedia.org/ontology/team http://dbpedia.org/resource/Quilmes_Atl%C3%A9tico_Club does not look like a valid URI, trying
+to serialize this will break.
+http://dbpedia.org/resource/Walter_Paz http://dbpedia.org/ontology/team http://dbpedia.org/resource/Quilmes_Atl%C3%A9tico_Club
+http://dbpedia.org/resource/Gela_Ketashvili__3  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gela_Ketashvili__3 http://dbpedia.org/ontology/numberOfGoals does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gela_Ketashvili__3 http://dbpedia.org/ontology/numberOfGoals does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gela_Ketashvili__3 http://dbpedia.org/ontology/numberOfGoals  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gela_Ketashvili__3 http://dbpedia.org/ontology/numberOfGoals 0 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gela_Ketashvili__3 http://dbpedia.org/ontology/numberOfGoals 0
+http://dbpedia.org/resource/Teddy_Gipson  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Teddy_Gipson http://dbpedia.org/ontology/number does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Teddy_Gipson http://dbpedia.org/ontology/number does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Teddy_Gipson http://dbpedia.org/ontology/number  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Teddy_Gipson http://dbpedia.org/ontology/number 17 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Teddy_Gipson http://dbpedia.org/ontology/number 17
+http://dbpedia.org/resource/Erin_E._Stead  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Erin_E._Stead http://dbpedia.org/ontology/occupation does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Erin_E._Stead http://dbpedia.org/ontology/occupation does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Erin_E._Stead http://dbpedia.org/ontology/occupation  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Erin_E._Stead http://dbpedia.org/ontology/occupation http://dbpedia.org/resource/Illustrator does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Erin_E._Stead http://dbpedia.org/ontology/occupation http://dbpedia.org/resource/Illustrator does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Erin_E._Stead http://dbpedia.org/ontology/occupation http://dbpedia.org/resource/Illustrator
+http://dbpedia.org/resource/Craibia_atlantica  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Craibia_atlantica http://dbpedia.org/ontology/kingdom does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Craibia_atlantica http://dbpedia.org/ontology/kingdom does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Craibia_atlantica http://dbpedia.org/ontology/kingdom  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Craibia_atlantica http://dbpedia.org/ontology/kingdom http://dbpedia.org/resource/Plant does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Craibia_atlantica http://dbpedia.org/ontology/kingdom http://dbpedia.org/resource/Plant does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Craibia_atlantica http://dbpedia.org/ontology/kingdom http://dbpedia.org/resource/Plant
+http://dbpedia.org/resource/USS_Grapple_(ARS-7)  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/USS_Grapple_(ARS-7) http://dbpedia.org/ontology/activeYearsStartDate does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/USS_Grapple_(ARS-7) http://dbpedia.org/ontology/activeYearsStartDate does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/USS_Grapple_(ARS-7) http://dbpedia.org/ontology/activeYearsStartDate  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/USS_Grapple_(ARS-7) http://dbpedia.org/ontology/activeYearsStartDate 1951-12-20 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/USS_Grapple_(ARS-7) http://dbpedia.org/ontology/activeYearsStartDate 1951-12-20
+http://dbpedia.org/resource/Cuthona_caerulea  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cuthona_caerulea http://dbpedia.org/ontology/class does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cuthona_caerulea http://dbpedia.org/ontology/class does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cuthona_caerulea http://dbpedia.org/ontology/class  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cuthona_caerulea http://dbpedia.org/ontology/class http://dbpedia.org/resource/Gastropoda does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cuthona_caerulea http://dbpedia.org/ontology/class http://dbpedia.org/resource/Gastropoda does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cuthona_caerulea http://dbpedia.org/ontology/class http://dbpedia.org/resource/Gastropoda
+http://dbpedia.org/resource/Louie_Bellson  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Louie_Bellson http://dbpedia.org/ontology/associatedMusicalArtist does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Louie_Bellson http://dbpedia.org/ontology/associatedMusicalArtist does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Louie_Bellson http://dbpedia.org/ontology/associatedMusicalArtist  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Louie_Bellson http://dbpedia.org/ontology/associatedMusicalArtist http://dbpedia.org/resource/Harry_James does not look like a valid URI,
+trying to serialize this will break.
+http://dbpedia.org/resource/Louie_Bellson http://dbpedia.org/ontology/associatedMusicalArtist http://dbpedia.org/resource/Harry_James does not look like a valid URI,
+trying to serialize this will break.
+http://dbpedia.org/resource/Louie_Bellson http://dbpedia.org/ontology/associatedMusicalArtist http://dbpedia.org/resource/Harry_James
+http://dbpedia.org/resource/Park_Jae-Hong_(footballer)__2  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Park_Jae-Hong_(footballer)__2 http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Park_Jae-Hong_(footballer)__2 http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Park_Jae-Hong_(footballer)__2 http://dbpedia.org/ontology/team  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Park_Jae-Hong_(footballer)__2 http://dbpedia.org/ontology/team http://dbpedia.org/resource/Sangju_Sangmu_Phoenix does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Park_Jae-Hong_(footballer)__2 http://dbpedia.org/ontology/team http://dbpedia.org/resource/Sangju_Sangmu_Phoenix does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Park_Jae-Hong_(footballer)__2 http://dbpedia.org/ontology/team http://dbpedia.org/resource/Sangju_Sangmu_Phoenix
+http://dbpedia.org/resource/Angel_By_My_Side  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Angel_By_My_Side http://dbpedia.org/ontology/musicalArtist does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Angel_By_My_Side http://dbpedia.org/ontology/musicalArtist does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Angel_By_My_Side http://dbpedia.org/ontology/musicalArtist  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Angel_By_My_Side http://dbpedia.org/ontology/musicalArtist http://dbpedia.org/resource/Do_(singer) does not look like a valid URI, trying
+to serialize this will break.
+http://dbpedia.org/resource/Angel_By_My_Side http://dbpedia.org/ontology/musicalArtist http://dbpedia.org/resource/Do_(singer) does not look like a valid URI, trying
+to serialize this will break.
+http://dbpedia.org/resource/Angel_By_My_Side http://dbpedia.org/ontology/musicalArtist http://dbpedia.org/resource/Do_(singer)
+http://dbpedia.org/resource/Yongjia_Xuanjue  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Yongjia_Xuanjue http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Yongjia_Xuanjue http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Yongjia_Xuanjue http://xmlns.com/foaf/0.1/name  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Yongjia_Xuanjue http://xmlns.com/foaf/0.1/name Yongjia Xuanjue does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Yongjia_Xuanjue http://xmlns.com/foaf/0.1/name Yongjia Xuanjue
+http://dbpedia.org/resource/Mike_Beesley__5  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mike_Beesley__5 http://dbpedia.org/ontology/numberOfGoals does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mike_Beesley__5 http://dbpedia.org/ontology/numberOfGoals does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mike_Beesley__5 http://dbpedia.org/ontology/numberOfGoals  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mike_Beesley__5 http://dbpedia.org/ontology/numberOfGoals 11 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mike_Beesley__5 http://dbpedia.org/ontology/numberOfGoals 11
+http://dbpedia.org/resource/Strathkinness  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Strathkinness http://dbpedia.org/ontology/councilArea does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Strathkinness http://dbpedia.org/ontology/councilArea does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Strathkinness http://dbpedia.org/ontology/councilArea  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Strathkinness http://dbpedia.org/ontology/councilArea http://dbpedia.org/resource/Fife does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Strathkinness http://dbpedia.org/ontology/councilArea http://dbpedia.org/resource/Fife does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Strathkinness http://dbpedia.org/ontology/councilArea http://dbpedia.org/resource/Fife
+http://dbpedia.org/resource/Ko%C5%BCuszki,_Podlaskie_Voivodeship  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ko%C5%BCuszki,_Podlaskie_Voivodeship http://dbpedia.org/ontology/country does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ko%C5%BCuszki,_Podlaskie_Voivodeship http://dbpedia.org/ontology/country does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ko%C5%BCuszki,_Podlaskie_Voivodeship http://dbpedia.org/ontology/country  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ko%C5%BCuszki,_Podlaskie_Voivodeship http://dbpedia.org/ontology/country http://dbpedia.org/resource/Poland does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ko%C5%BCuszki,_Podlaskie_Voivodeship http://dbpedia.org/ontology/country http://dbpedia.org/resource/Poland does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ko%C5%BCuszki,_Podlaskie_Voivodeship http://dbpedia.org/ontology/country http://dbpedia.org/resource/Poland
+http://dbpedia.org/resource/Drina_(butterfly)  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Drina_(butterfly) http://dbpedia.org/ontology/order does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Drina_(butterfly) http://dbpedia.org/ontology/order does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Drina_(butterfly) http://dbpedia.org/ontology/order  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Drina_(butterfly) http://dbpedia.org/ontology/order http://dbpedia.org/resource/Lepidoptera does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Drina_(butterfly) http://dbpedia.org/ontology/order http://dbpedia.org/resource/Lepidoptera does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Drina_(butterfly) http://dbpedia.org/ontology/order http://dbpedia.org/resource/Lepidoptera
+http://dbpedia.org/resource/Eustalodes  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Eustalodes http://dbpedia.org/ontology/class does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Eustalodes http://dbpedia.org/ontology/class does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Eustalodes http://dbpedia.org/ontology/class  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Eustalodes http://dbpedia.org/ontology/class http://dbpedia.org/resource/Insect does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Eustalodes http://dbpedia.org/ontology/class http://dbpedia.org/resource/Insect does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Eustalodes http://dbpedia.org/ontology/class http://dbpedia.org/resource/Insect
+http://dbpedia.org/resource/Frenkendorf  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Frenkendorf http://dbpedia.org/ontology/neighboringMunicipality does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Frenkendorf http://dbpedia.org/ontology/neighboringMunicipality does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Frenkendorf http://dbpedia.org/ontology/neighboringMunicipality  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Frenkendorf http://dbpedia.org/ontology/neighboringMunicipality http://dbpedia.org/resource/Pratteln does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Frenkendorf http://dbpedia.org/ontology/neighboringMunicipality http://dbpedia.org/resource/Pratteln does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Frenkendorf http://dbpedia.org/ontology/neighboringMunicipality http://dbpedia.org/resource/Pratteln
+http://dbpedia.org/resource/St._Matthew's_by_the_Bridge_Episcopal_Church  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/St._Matthew's_by_the_Bridge_Episcopal_Church http://www.w3.org/2003/01/geo/wgs84_pos#long does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/St._Matthew's_by_the_Bridge_Episcopal_Church http://www.w3.org/2003/01/geo/wgs84_pos#long does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/St._Matthew's_by_the_Bridge_Episcopal_Church http://www.w3.org/2003/01/geo/wgs84_pos#long  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/St._Matthew's_by_the_Bridge_Episcopal_Church http://www.w3.org/2003/01/geo/wgs84_pos#long -93.26305555555555 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/St._Matthew's_by_the_Bridge_Episcopal_Church http://www.w3.org/2003/01/geo/wgs84_pos#long -93.26305555555555
+http://dbpedia.org/resource/Prince_of_Darkness_(Nosferatu_album)  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Prince_of_Darkness_(Nosferatu_album) http://dbpedia.org/ontology/recordLabel does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Prince_of_Darkness_(Nosferatu_album) http://dbpedia.org/ontology/recordLabel does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Prince_of_Darkness_(Nosferatu_album) http://dbpedia.org/ontology/recordLabel  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Prince_of_Darkness_(Nosferatu_album) http://dbpedia.org/ontology/recordLabel http://dbpedia.org/resource/Cleopatra_Records does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Prince_of_Darkness_(Nosferatu_album) http://dbpedia.org/ontology/recordLabel http://dbpedia.org/resource/Cleopatra_Records does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Prince_of_Darkness_(Nosferatu_album) http://dbpedia.org/ontology/recordLabel http://dbpedia.org/resource/Cleopatra_Records
+http://dbpedia.org/resource/Liu_Haiping  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Liu_Haiping http://dbpedia.org/ontology/nationality does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Liu_Haiping http://dbpedia.org/ontology/nationality does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Liu_Haiping http://dbpedia.org/ontology/nationality  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Liu_Haiping http://dbpedia.org/ontology/nationality http://dbpedia.org/resource/China does not look like a valid URI, trying to serialize
+this will break.
+http://dbpedia.org/resource/Liu_Haiping http://dbpedia.org/ontology/nationality http://dbpedia.org/resource/China does not look like a valid URI, trying to serialize
+this will break.
+http://dbpedia.org/resource/Liu_Haiping http://dbpedia.org/ontology/nationality http://dbpedia.org/resource/China
+http://dbpedia.org/resource/Mafia_II  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mafia_II http://dbpedia.org/ontology/gameEngine does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mafia_II http://dbpedia.org/ontology/gameEngine does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mafia_II http://dbpedia.org/ontology/gameEngine  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mafia_II http://dbpedia.org/ontology/gameEngine http://dbpedia.org/resource/PhysX does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mafia_II http://dbpedia.org/ontology/gameEngine http://dbpedia.org/resource/PhysX does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mafia_II http://dbpedia.org/ontology/gameEngine http://dbpedia.org/resource/PhysX
+http://dbpedia.org/resource/Devils_Peak_(Santa_Barbara_County,_California)  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Devils_Peak_(Santa_Barbara_County,_California) http://dbpedia.org/ontology/elevation does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Devils_Peak_(Santa_Barbara_County,_California) http://dbpedia.org/ontology/elevation does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Devils_Peak_(Santa_Barbara_County,_California) http://dbpedia.org/ontology/elevation  does not look like a valid URI, trying to serialize
+this will break.
+http://dbpedia.org/resource/Devils_Peak_(Santa_Barbara_County,_California) http://dbpedia.org/ontology/elevation 740.3592 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Devils_Peak_(Santa_Barbara_County,_California) http://dbpedia.org/ontology/elevation 740.3592
+http://dbpedia.org/resource/13_West_Street  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/13_West_Street http://dbpedia.org/ontology/country does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/13_West_Street http://dbpedia.org/ontology/country does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/13_West_Street http://dbpedia.org/ontology/country  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/13_West_Street http://dbpedia.org/ontology/country http://dbpedia.org/resource/United_States does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/13_West_Street http://dbpedia.org/ontology/country http://dbpedia.org/resource/United_States does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/13_West_Street http://dbpedia.org/ontology/country http://dbpedia.org/resource/United_States
+http://dbpedia.org/resource/Vickers_machine_gun  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vickers_machine_gun http://dbpedia.org/ontology/usedInWar does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vickers_machine_gun http://dbpedia.org/ontology/usedInWar does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vickers_machine_gun http://dbpedia.org/ontology/usedInWar  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vickers_machine_gun http://dbpedia.org/ontology/usedInWar http://dbpedia.org/resource/World_War_I does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vickers_machine_gun http://dbpedia.org/ontology/usedInWar http://dbpedia.org/resource/World_War_I does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vickers_machine_gun http://dbpedia.org/ontology/usedInWar http://dbpedia.org/resource/World_War_I
+http://dbpedia.org/resource/Rich_Brennan  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Rich_Brennan http://dbpedia.org/ontology/formerTeam does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Rich_Brennan http://dbpedia.org/ontology/formerTeam does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Rich_Brennan http://dbpedia.org/ontology/formerTeam  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Rich_Brennan http://dbpedia.org/ontology/formerTeam http://dbpedia.org/resource/San_Jose_Sharks does not look like a valid URI, trying to
+serialize this will break.
+http://dbpedia.org/resource/Rich_Brennan http://dbpedia.org/ontology/formerTeam http://dbpedia.org/resource/San_Jose_Sharks does not look like a valid URI, trying to
+serialize this will break.
+http://dbpedia.org/resource/Rich_Brennan http://dbpedia.org/ontology/formerTeam http://dbpedia.org/resource/San_Jose_Sharks
+http://dbpedia.org/resource/Sali-ye_Kuchek  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sali-ye_Kuchek http://dbpedia.org/ontology/populationTotal does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sali-ye_Kuchek http://dbpedia.org/ontology/populationTotal does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sali-ye_Kuchek http://dbpedia.org/ontology/populationTotal  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sali-ye_Kuchek http://dbpedia.org/ontology/populationTotal 102 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Sali-ye_Kuchek http://dbpedia.org/ontology/populationTotal 102
+http://dbpedia.org/resource/Adam_%C5%81agiewka__3  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Adam_%C5%81agiewka__3 http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Adam_%C5%81agiewka__3 http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Adam_%C5%81agiewka__3 http://dbpedia.org/ontology/team  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Adam_%C5%81agiewka__3 http://dbpedia.org/ontology/team http://dbpedia.org/resource/Tur_Turek does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Adam_%C5%81agiewka__3 http://dbpedia.org/ontology/team http://dbpedia.org/resource/Tur_Turek does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Adam_%C5%81agiewka__3 http://dbpedia.org/ontology/team http://dbpedia.org/resource/Tur_Turek
+http://dbpedia.org/resource/Simpulopsidae  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simpulopsidae http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simpulopsidae http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simpulopsidae http://xmlns.com/foaf/0.1/name  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simpulopsidae http://xmlns.com/foaf/0.1/name Simpulopsidae does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simpulopsidae http://xmlns.com/foaf/0.1/name Simpulopsidae
+http://dbpedia.org/resource/Vitali_Yevstigneyev  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vitali_Yevstigneyev http://dbpedia.org/ontology/careerStation does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vitali_Yevstigneyev http://dbpedia.org/ontology/careerStation does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vitali_Yevstigneyev http://dbpedia.org/ontology/careerStation  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vitali_Yevstigneyev http://dbpedia.org/ontology/careerStation http://dbpedia.org/resource/Vitali_Yevstigneyev__4 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vitali_Yevstigneyev http://dbpedia.org/ontology/careerStation http://dbpedia.org/resource/Vitali_Yevstigneyev__4 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Vitali_Yevstigneyev http://dbpedia.org/ontology/careerStation http://dbpedia.org/resource/Vitali_Yevstigneyev__4
+http://dbpedia.org/resource/Maizicourt  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Maizicourt http://dbpedia.org/ontology/postalCode does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Maizicourt http://dbpedia.org/ontology/postalCode does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Maizicourt http://dbpedia.org/ontology/postalCode  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Maizicourt http://dbpedia.org/ontology/postalCode 80370 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Maizicourt http://dbpedia.org/ontology/postalCode 80370
+http://dbpedia.org/resource/Cotham_railway_station  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cotham_railway_station http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cotham_railway_station http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cotham_railway_station http://xmlns.com/foaf/0.1/name  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cotham_railway_station http://xmlns.com/foaf/0.1/name Cotham does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Cotham_railway_station http://xmlns.com/foaf/0.1/name Cotham
+http://dbpedia.org/resource/Stevens_MRT_Station  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Stevens_MRT_Station http://dbpedia.org/ontology/numberOfPlatformLevels does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Stevens_MRT_Station http://dbpedia.org/ontology/numberOfPlatformLevels does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Stevens_MRT_Station http://dbpedia.org/ontology/numberOfPlatformLevels  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Stevens_MRT_Station http://dbpedia.org/ontology/numberOfPlatformLevels 4 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Stevens_MRT_Station http://dbpedia.org/ontology/numberOfPlatformLevels 4
+http://dbpedia.org/resource/Simhalan_Madhava_Panicker  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simhalan_Madhava_Panicker http://dbpedia.org/ontology/religion does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simhalan_Madhava_Panicker http://dbpedia.org/ontology/religion does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simhalan_Madhava_Panicker http://dbpedia.org/ontology/religion  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simhalan_Madhava_Panicker http://dbpedia.org/ontology/religion http://dbpedia.org/resource/Islam does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simhalan_Madhava_Panicker http://dbpedia.org/ontology/religion http://dbpedia.org/resource/Islam does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simhalan_Madhava_Panicker http://dbpedia.org/ontology/religion http://dbpedia.org/resource/Islam
+http://dbpedia.org/resource/Handrup  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Handrup http://dbpedia.org/ontology/postalCode does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Handrup http://dbpedia.org/ontology/postalCode does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Handrup http://dbpedia.org/ontology/postalCode  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Handrup http://dbpedia.org/ontology/postalCode 49838 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Handrup http://dbpedia.org/ontology/postalCode 49838
+http://dbpedia.org/resource/Gaje,_Pomeranian_Voivodeship  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gaje,_Pomeranian_Voivodeship http://dbpedia.org/ontology/populationTotal does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gaje,_Pomeranian_Voivodeship http://dbpedia.org/ontology/populationTotal does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gaje,_Pomeranian_Voivodeship http://dbpedia.org/ontology/populationTotal  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gaje,_Pomeranian_Voivodeship http://dbpedia.org/ontology/populationTotal 7 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gaje,_Pomeranian_Voivodeship http://dbpedia.org/ontology/populationTotal 7
+http://dbpedia.org/resource/Shiloh_Baptist_Church_(Columbus,_Ohio)  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Shiloh_Baptist_Church_(Columbus,_Ohio) http://www.w3.org/2003/01/geo/wgs84_pos#long does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Shiloh_Baptist_Church_(Columbus,_Ohio) http://www.w3.org/2003/01/geo/wgs84_pos#long does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Shiloh_Baptist_Church_(Columbus,_Ohio) http://www.w3.org/2003/01/geo/wgs84_pos#long  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Shiloh_Baptist_Church_(Columbus,_Ohio) http://www.w3.org/2003/01/geo/wgs84_pos#long -82.98194444444445 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Shiloh_Baptist_Church_(Columbus,_Ohio) http://www.w3.org/2003/01/geo/wgs84_pos#long -82.98194444444445
+http://dbpedia.org/resource/Simba_Makoni  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simba_Makoni http://dbpedia.org/ontology/residence does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simba_Makoni http://dbpedia.org/ontology/residence does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simba_Makoni http://dbpedia.org/ontology/residence  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simba_Makoni http://dbpedia.org/ontology/residence http://dbpedia.org/resource/South_Africa does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simba_Makoni http://dbpedia.org/ontology/residence http://dbpedia.org/resource/South_Africa does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Simba_Makoni http://dbpedia.org/ontology/residence http://dbpedia.org/resource/South_Africa
+http://dbpedia.org/resource/The_Lollipop_Generation  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Lollipop_Generation http://dbpedia.org/ontology/starring does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Lollipop_Generation http://dbpedia.org/ontology/starring does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Lollipop_Generation http://dbpedia.org/ontology/starring  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Lollipop_Generation http://dbpedia.org/ontology/starring http://dbpedia.org/resource/Jen_Smith does not look like a valid URI, trying
+to serialize this will break.
+http://dbpedia.org/resource/The_Lollipop_Generation http://dbpedia.org/ontology/starring http://dbpedia.org/resource/Jen_Smith does not look like a valid URI, trying
+to serialize this will break.
+http://dbpedia.org/resource/The_Lollipop_Generation http://dbpedia.org/ontology/starring http://dbpedia.org/resource/Jen_Smith
+http://dbpedia.org/resource/Ricky_Ohorella  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ricky_Ohorella http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ricky_Ohorella http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ricky_Ohorella http://dbpedia.org/ontology/team  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ricky_Ohorella http://dbpedia.org/ontology/team http://dbpedia.org/resource/Semen_Padang_F.C. does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ricky_Ohorella http://dbpedia.org/ontology/team http://dbpedia.org/resource/Semen_Padang_F.C. does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ricky_Ohorella http://dbpedia.org/ontology/team http://dbpedia.org/resource/Semen_Padang_F.C.
+http://dbpedia.org/resource/Odeta_Nishani  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Odeta_Nishani http://dbpedia.org/ontology/birthPlace does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Odeta_Nishani http://dbpedia.org/ontology/birthPlace does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Odeta_Nishani http://dbpedia.org/ontology/birthPlace  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Odeta_Nishani http://dbpedia.org/ontology/birthPlace http://dbpedia.org/resource/Albania does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Odeta_Nishani http://dbpedia.org/ontology/birthPlace http://dbpedia.org/resource/Albania does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Odeta_Nishani http://dbpedia.org/ontology/birthPlace http://dbpedia.org/resource/Albania
+http://dbpedia.org/resource/Francisco_de_Assis_Clarentino_Valentim  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Francisco_de_Assis_Clarentino_Valentim http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Francisco_de_Assis_Clarentino_Valentim http://dbpedia.org/ontology/team does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Francisco_de_Assis_Clarentino_Valentim http://dbpedia.org/ontology/team  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Francisco_de_Assis_Clarentino_Valentim http://dbpedia.org/ontology/team http://dbpedia.org/resource/Paran%C3%A1_Clube does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Francisco_de_Assis_Clarentino_Valentim http://dbpedia.org/ontology/team http://dbpedia.org/resource/Paran%C3%A1_Clube does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Francisco_de_Assis_Clarentino_Valentim http://dbpedia.org/ontology/team http://dbpedia.org/resource/Paran%C3%A1_Clube
+http://dbpedia.org/resource/Old_French_Sign_Language  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Old_French_Sign_Language http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Old_French_Sign_Language http://xmlns.com/foaf/0.1/name does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Old_French_Sign_Language http://xmlns.com/foaf/0.1/name  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Old_French_Sign_Language http://xmlns.com/foaf/0.1/name Old French Sign Language does not look like a valid URI, trying to serialize this
+will break.
+http://dbpedia.org/resource/Old_French_Sign_Language http://xmlns.com/foaf/0.1/name Old French Sign Language
+http://dbpedia.org/resource/Stillwater_Bridge_(St._Croix_River)  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Stillwater_Bridge_(St._Croix_River) http://dbpedia.org/ontology/type does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Stillwater_Bridge_(St._Croix_River) http://dbpedia.org/ontology/type does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Stillwater_Bridge_(St._Croix_River) http://dbpedia.org/ontology/type  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Stillwater_Bridge_(St._Croix_River) http://dbpedia.org/ontology/type http://dbpedia.org/resource/Vertical-lift_bridge does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Stillwater_Bridge_(St._Croix_River) http://dbpedia.org/ontology/type http://dbpedia.org/resource/Vertical-lift_bridge does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Stillwater_Bridge_(St._Croix_River) http://dbpedia.org/ontology/type http://dbpedia.org/resource/Vertical-lift_bridge
+http://dbpedia.org/resource/Ben_Schwartzwalder  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ben_Schwartzwalder http://dbpedia.org/ontology/birthDate does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ben_Schwartzwalder http://dbpedia.org/ontology/birthDate does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ben_Schwartzwalder http://dbpedia.org/ontology/birthDate  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ben_Schwartzwalder http://dbpedia.org/ontology/birthDate 1909-06-02 does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ben_Schwartzwalder http://dbpedia.org/ontology/birthDate 1909-06-02
+http://dbpedia.org/resource/Ra%C4%8Din%C4%9Bves  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ra%C4%8Din%C4%9Bves http://dbpedia.org/ontology/country does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ra%C4%8Din%C4%9Bves http://dbpedia.org/ontology/country does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ra%C4%8Din%C4%9Bves http://dbpedia.org/ontology/country  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Ra%C4%8Din%C4%9Bves http://dbpedia.org/ontology/country http://dbpedia.org/resource/Czech_Republic does not look like a valid URI, trying
+to serialize this will break.
+http://dbpedia.org/resource/Ra%C4%8Din%C4%9Bves http://dbpedia.org/ontology/country http://dbpedia.org/resource/Czech_Republic does not look like a valid URI, trying
+to serialize this will break.
+http://dbpedia.org/resource/Ra%C4%8Din%C4%9Bves http://dbpedia.org/ontology/country http://dbpedia.org/resource/Czech_Republic
+http://dbpedia.org/resource/Gomadzor  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gomadzor http://dbpedia.org/ontology/isPartOf does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gomadzor http://dbpedia.org/ontology/isPartOf does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gomadzor http://dbpedia.org/ontology/isPartOf  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gomadzor http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Gegharkunik_Province does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gomadzor http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Gegharkunik_Province does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Gomadzor http://dbpedia.org/ontology/isPartOf http://dbpedia.org/resource/Gegharkunik_Province
+http://dbpedia.org/resource/Howard_Fast  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Howard_Fast http://dbpedia.org/ontology/birthPlace does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Howard_Fast http://dbpedia.org/ontology/birthPlace does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Howard_Fast http://dbpedia.org/ontology/birthPlace  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Howard_Fast http://dbpedia.org/ontology/birthPlace http://dbpedia.org/resource/New_York_City does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Howard_Fast http://dbpedia.org/ontology/birthPlace http://dbpedia.org/resource/New_York_City does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Howard_Fast http://dbpedia.org/ontology/birthPlace http://dbpedia.org/resource/New_York_City
+http://dbpedia.org/resource/Mercantile_Marine_Academy_(Chittagong)  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mercantile_Marine_Academy_(Chittagong) http://dbpedia.org/ontology/motto does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mercantile_Marine_Academy_(Chittagong) http://dbpedia.org/ontology/motto does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mercantile_Marine_Academy_(Chittagong) http://dbpedia.org/ontology/motto  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mercantile_Marine_Academy_(Chittagong) http://dbpedia.org/ontology/motto Join Merchant Marine International Career at Sea. does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Mercantile_Marine_Academy_(Chittagong) http://dbpedia.org/ontology/motto Join Merchant Marine International Career at Sea.
+http://dbpedia.org/resource/The_Yellow_Canary  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Yellow_Canary http://dbpedia.org/ontology/director does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Yellow_Canary http://dbpedia.org/ontology/director does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Yellow_Canary http://dbpedia.org/ontology/director  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Yellow_Canary http://dbpedia.org/ontology/director http://dbpedia.org/resource/Buzz_Kulik does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Yellow_Canary http://dbpedia.org/ontology/director http://dbpedia.org/resource/Buzz_Kulik does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/The_Yellow_Canary http://dbpedia.org/ontology/director http://dbpedia.org/resource/Buzz_Kulik
+http://dbpedia.org/resource/2011%E2%80%9312_Deportivo_Toluca_F.C._season__Isa%C3%A1c_Brizuela__2  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/2011%E2%80%9312_Deportivo_Toluca_F.C._season__Isa%C3%A1c_Brizuela__2 http://dbpedia.org/ontology/position does not look like a valid URI,
+trying to serialize this will break.
+http://dbpedia.org/resource/2011%E2%80%9312_Deportivo_Toluca_F.C._season__Isa%C3%A1c_Brizuela__2 http://dbpedia.org/ontology/position does not look like a valid URI,
+trying to serialize this will break.
+http://dbpedia.org/resource/2011%E2%80%9312_Deportivo_Toluca_F.C._season__Isa%C3%A1c_Brizuela__2 http://dbpedia.org/ontology/position  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/2011%E2%80%9312_Deportivo_Toluca_F.C._season__Isa%C3%A1c_Brizuela__2 http://dbpedia.org/ontology/position FW does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/2011%E2%80%9312_Deportivo_Toluca_F.C._season__Isa%C3%A1c_Brizuela__2 http://dbpedia.org/ontology/position FW
+http://dbpedia.org/resource/Tracie_Thoms  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Tracie_Thoms http://dbpedia.org/ontology/education does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Tracie_Thoms http://dbpedia.org/ontology/education does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Tracie_Thoms http://dbpedia.org/ontology/education  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Tracie_Thoms http://dbpedia.org/ontology/education http://dbpedia.org/resource/Howard_University does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Tracie_Thoms http://dbpedia.org/ontology/education http://dbpedia.org/resource/Howard_University does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Tracie_Thoms http://dbpedia.org/ontology/education http://dbpedia.org/resource/Howard_University
+http://dbpedia.org/resource/Lower_Kalskag,_Alaska  does not look like a valid URI, trying to serialize this will break.
+http://dbpedia.org/resource/Lower_Kalskag,_Alaska http://dbpedia.org/ontology/postalCode does not look like a valid URI, trying to serialize this will break.
+Traceback (most recent call last):
+  File ".\create_bg_knowledge.py", line 9, in <module>
+    print (subj + " "+pred +" "+ obj)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\rdflib\term.py", line 280, in __add__
+    return self.__class__(str(self) + other)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\rdflib\term.py", line 283, in __radd__
+    return self.__class__(other + str(self))
+  File "C:\ProgramData\Anaconda3\lib\site-packages\rdflib\term.py", line 224, in __new__
+    logger.warning('%s does not look like a valid URI, trying to serialize this will break.'%value)
+  File "C:\ProgramData\Anaconda3\lib\logging\__init__.py", line 1318, in warning
+    self._log(WARNING, msg, args, **kwargs)
+  File "C:\ProgramData\Anaconda3\lib\logging\__init__.py", line 1442, in _log
+    self.handle(record)
+  File "C:\ProgramData\Anaconda3\lib\logging\__init__.py", line 1452, in handle
+    self.callHandlers(record)
+  File "C:\ProgramData\Anaconda3\lib\logging\__init__.py", line 1522, in callHandlers
+    lastResort.handle(record)
+  File "C:\ProgramData\Anaconda3\lib\logging\__init__.py", line 863, in handle
+    self.emit(record)
+  File "C:\ProgramData\Anaconda3\lib\logging\__init__.py", line 995, in emit
+    stream.write(self.terminator)
+KeyboardInterrupt
