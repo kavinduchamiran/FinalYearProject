@@ -20,26 +20,30 @@ pool = ThreadPool()
 count = 0
 
 def query_dbpedia_lookup_endpoint(x):
-    global count
-    count += 1
-    print(count / c)
+    try:
+        global count
+        count += 1
+        print(count / c)
 
-    filename, col, entity_label = x
+        filename, col, entity_label = x
 
-    url = 'http://lookup.dbpedia.org/api/search/KeywordSearch?MaxHits=1&QueryString=%s' % entity_label
-    http = urllib3.PoolManager()
+        url = 'http://lookup.dbpedia.org/api/search/KeywordSearch?MaxHits=1&QueryString=%s' % entity_label
+        http = urllib3.PoolManager()
 
-    req = http.request('GET', url, headers={'Accept': 'application/json'})
+        req = http.request('GET', url, headers={'Accept': 'application/json'})
 
-    json_data = json.loads(req.data.decode('utf-8'))
+        json_data = json.loads(req.data.decode('utf-8'))
 
-    if json_data['results']:
-        uri = json_data['results'][0]['uri']
-        with open('label_to_uri.txt', 'a+') as dest:
-            dest.write("{}\t{}\n".format(entity_label, uri))
-    else:
-        with open('label_to_uri_failed.txt', 'a+') as dest:
-            dest.write("{}\t{}\t{}\n".format(filename, col, entity_label))
+        if json_data['results']:
+            uri = json_data['results'][0]['uri']
+            with open('label_to_uri.txt', 'a+') as dest:
+                dest.write("{}\t{}\n".format(entity_label, uri))
+        else:
+            with open('label_to_uri_failed.txt', 'a+') as dest:
+                dest.write("{}\t{}\t{}\n".format(filename, col, entity_label))
+    except Exception as e:
+        print(e, x, uri)
+
 
 
 for filename in os.listdir('./tables'):
@@ -77,10 +81,7 @@ rows = [row for row in rows if special_match(row[2])]
 
 c = len(rows)
 
-try:
-    pool.map(query_dbpedia_lookup_endpoint, rows)
+pool.map(query_dbpedia_lookup_endpoint, rows)
 
-    pool.close()
-    pool.join()
-except Exception as e:
-    print(e)
+pool.close()
+pool.join()
