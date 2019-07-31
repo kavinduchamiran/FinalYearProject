@@ -1,7 +1,7 @@
 import os
 import json
 import codecs
-from csv import reader
+import csv
 import random
 import urllib3
 import re
@@ -59,20 +59,21 @@ for filename in os.listdir('./tables'):
             for i in col:
                 rows.append((filename, idx, i))
             # rows.extend(map(str.lower, col))
+        lines = csv.reader(open(instance))
 
-        for line in instance:
+        for line in lines:
             if line == []:
                 continue
 
-            uri, _, label, _ = line
-            with open('label_dbr.txt', 'a+') as dest:
+            uri, label, _ = line
+            with open('label_to_uri.txt', 'a+') as dest:
                 dest.write("{}\t{}\n".format(label, uri))
 
     except Exception as e:
         print(e)
         print(filename)
 
-# rows = list(set(rows))
+rows = list(set(rows))
 
 rows = [row for row in rows if special_match(row[2])]
 
