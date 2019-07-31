@@ -19,7 +19,14 @@ This extracts the relations
 but property files are in dbo's. not dbr's
 """
 
+count = 0
+total = 0
+
 def query_dbpedia_concept(subject):
+    global count
+    count += 1
+    print(count / total)
+    
     label, uri = subject.split('\t')
     uri = uri[:-2]
     sparql = SPARQLWrapper("http://dbpedia.org/sparql")
@@ -120,6 +127,8 @@ def query_dbpedia_relation(subject):
 
 rows = open('./label_dbr.txt').readlines()
 rows = list(set(rows))
+
+total = len(rows)
 
 # pool.map(query_dbpedia_concept, rows)
 pool.map(query_dbpedia_relation, rows)
