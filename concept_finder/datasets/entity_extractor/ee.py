@@ -20,18 +20,17 @@ pool = ThreadPool()
 count = 0
 
 def query_dbpedia_lookup_endpoint(x):
-    try:
-        global count
-        count += 1
-        print(count / c)
+    global count
+    count += 1
+    print(count / c)
 
-        filename, col, entity_label = x
+    filename, col, entity_label = x
 
-        url = 'http://lookup.dbpedia.org/api/search/KeywordSearch?MaxHits=1&QueryString=%s' % entity_label
-        http = urllib3.PoolManager()
+    url = 'http://lookup.dbpedia.org/api/search/KeywordSearch?MaxHits=1&QueryString=%s' % entity_label
+    http = urllib3.PoolManager()
 
-        req = http.request('GET', url, headers={'Accept': 'application/json'})
-
+    req = http.request('GET', url, headers={'Accept': 'application/json'})
+    if req.status == 200:
         json_data = json.loads(req.data)
 
         if json_data['results']:
@@ -41,8 +40,6 @@ def query_dbpedia_lookup_endpoint(x):
         else:
             with open('label_to_uri_failed.txt', 'a+') as dest:
                 dest.write("{}\t{}\t{}\n".format(filename, col, entity_label))
-    except Exception as e:
-        print(e, x, uri)
 
 
 
