@@ -8,7 +8,7 @@ data = open('../dbpedia_mappings/dbr_dbo_dbr.txt', 'r', encoding='utf8').read().
 
 data_tup = []
 
-for i in data:
+for i in data[:-1]:
     data_tup.append(tuple(i.split('\t')))
 
 data = list(set(data))
