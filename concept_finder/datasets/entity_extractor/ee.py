@@ -6,9 +6,12 @@ import random
 import urllib3
 import re
 
-os.remove('label_to_uri.txt')
-os.remove('label_to_uri_failed.txt')
-os.remove('label_to_uri_cleaned.txt')
+try:
+    os.remove('label_to_uri.txt')
+    os.remove('label_to_uri_failed.txt')
+    os.remove('label_to_uri_cleaned.txt')
+except:
+    pass
 
 def special_match(strg, search=re.compile(r'[+a-z]').search):
     # regex at least one a-z
