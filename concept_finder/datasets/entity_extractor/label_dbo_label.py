@@ -136,9 +136,9 @@ total = len(rows)
 
 pool.map(query_dbpedia_concept, rows)
 
-count = 0
+# count = 0
 
-pool.map(query_dbpedia_relation, rows)
+# pool.map(query_dbpedia_relation, rows)
 
 pool.close()
 pool.join()
