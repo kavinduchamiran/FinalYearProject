@@ -23,3 +23,6 @@ venv/lib/python3.7/site-packages/scipy/.dylibs/libopenblasp-r0.3.7.dev.dylib
 venv
 .idea
 external_libraries/open_ke/benchmarks
+
+concept_finder/datasets/dbpedia_mappings/dbr_dbo_dbr.txt
+concept_finder/datasets/entity_extractor/dataset/*
