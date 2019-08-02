@@ -1,4 +1,3 @@
-http://dbpedia.org/ontology/elevation,altitude 
- in meter,False,2
+http://dbpedia.org/ontology/elevation,altitude in meter,False,2
 http://dbpedia.org/ontology/locatedInArea,himal,False,3
 http://dbpedia.org/ontology/Mountain,name of the peaks,True,1

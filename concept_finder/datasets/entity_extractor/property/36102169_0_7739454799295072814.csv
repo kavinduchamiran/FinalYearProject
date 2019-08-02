@@ -1,5 +1,4 @@
 http://dbpedia.org/ontology/developer,developer,False,1
-http://dbpedia.org/ontology/number,units sold
- (in millions),False,3
+http://dbpedia.org/ontology/number,units sold (in millions),False,3
 http://dbpedia.org/ontology/computingPlatform,platform,False,0
 http://dbpedia.org/ontology/VideoGame,game title,True,2
