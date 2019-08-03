@@ -11,7 +11,8 @@ venv
 
 external_libraries/open_ke/benchmarks
 
-concept_finder/datasets/dbpedia_mappings/dbr_dbo_dbr.txt
+concept_finder/datasets/dbpedia_mappings/dbr_dbo_dbr old.txt
+
 concept_finder/datasets/entity_extractor/dataset/*
 
 .DS_Store

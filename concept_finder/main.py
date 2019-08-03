@@ -8,7 +8,8 @@ Copyright 2019 Kavindu Chamiran | Amila Rukshan
 
 from file_readers import read_t2d_table, read_t2d_property
 from query_dbpedia import query_dbpedia_lookup_endpoint
-from methods import concept_embedding, helper_functions
+from methods import concept_embedding as ce
+from external_libraries import helper_functions as hf
 from collections import Counter
 
 import warnings
@@ -19,12 +20,13 @@ import pandas as pd
 search_space = 20
 
 def find_concepts():
-    dataset_folder = './datasets/test_files/tables/'
-    file_list = helper_functions.iter_folder(dataset_folder, 'json')
+    tp_overall, fp_overall, fn_overall = 0, 0, 0
 
-    for file in file_list:
-        temp_results = {}
-        final_results = {}
+    dataset_folder = './datasets/test_files/tables/'
+    file_list = hf.iter_folder(dataset_folder, 'json')
+
+    for file in file_list[:1]:
+        predicted = {}
 
         has_header, sub_col_idx, columns = read_t2d_table(file + '.json')
 
@@ -33,7 +35,7 @@ def find_concepts():
         print(df.head().to_string())
         print()
         
-        property = read_t2d_property(file + '.csv')
+        actual = read_t2d_property(file + '.csv')
 
         # finding concept of the subject column
 
@@ -48,11 +50,13 @@ def find_concepts():
             sub_results.extend(result)
 
         if not sub_results:
-            final_results[sub_col_idx] = None
+            predicted[sub_col_idx] = None
         else:
-            final_results[sub_col_idx] = helper_functions.find_deepest_concept(Counter(sub_results))
+            predicted[sub_col_idx] = hf.find_deepest_concept(Counter(sub_results))
 
         # finding concepts of remaining columns
+
+        temp_results = {}
 
         for idx, column in enumerate(columns):
             if idx == sub_col_idx:
@@ -64,19 +68,27 @@ def find_concepts():
             temp_results[idx] = []
 
             for r1, r2 in zip(sub_column, column):
-                r1_uri, r2_uri = helper_functions.fuzzy_match(r1.encode('ascii', 'ignore')), \
-                                 helper_functions.fuzzy_match(r2.encode('ascii', 'ignore'))
+                r1_uri, r2_uri = hf.fuzzy_match(r1.encode('ascii', 'ignore')), \
+                                 hf.fuzzy_match(r2.encode('ascii', 'ignore'))
 
-                result = concept_embedding.predict_concept_transE(r1_uri, r2_uri, 1)
+                result = ce.predict_concept_transE(r1_uri, r2_uri, 1)
                 temp_results[idx].append(result)
 
-            final_results[idx] = max(temp_results[idx], key=temp_results[idx].count)
+            predicted[idx] = max(temp_results[idx], key=temp_results[idx].count)[0]
 
-        for c, v in final_results.items():
+        for c, v in predicted.items():
             print(c, v)
+            
+        # get tp, fp, fn
+        tp, fp, fn = hf.calculate_tp_fp_fn(actual, predicted)
+        tp_overall += tp
+        fp_overall += fp
+        fn_overall += fn
 
     print()
     print()
+
+    print(hf.get_metrics(tp_overall, fp_overall, fn_overall))
 
 find_concepts()
 
