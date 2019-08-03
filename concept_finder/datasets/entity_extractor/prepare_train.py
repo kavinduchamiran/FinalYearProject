@@ -1,17 +1,26 @@
 import random
 import pickle
+import os
 
 # this file reads the triplets file and breaks into train.txt, test.txt and valid.txt
 # it also generetes 2 pickle dics with {entity: id} and {relation: id}
 
-data = open('../dbpedia_mappings/dbr_dbo_dbr.txt', 'r', encoding='utf8').read().split('\n')
+try:
+    files = ['train2id.txt', 'test2.id.txt', 'valid2id.txt', 'entity2id.txt', 'relation2id.txt', 'label_ent.pickle',
+             'label_rel.pickle']
+    for file in files:
+        os.remove('./dataset/%s' % file)
+except:
+    pass
+
+data = open('../dbpedia_mappings/dbr_dbo_dbr old.txt', 'r', encoding='utf8').read().split('\n')
 
 data_tup = []
 
-for i in data[:-1]:
-    data_tup.append(tuple(i.split('\t')))
-
 data = list(set(data))
+
+for i in data:
+    data_tup.append(tuple(i.split('\t')))
 
 entities = []
 entities_map = {}
@@ -44,6 +53,7 @@ entity2id.write("{}\n".format(len(entities_map)))
 for label, id in entities_map.items():
     label_ent[label] = id
     entity2id.write("{}\t{}\n".format(label, id))
+
 with open('./dataset/label_ent.pickle', 'wb') as handle:
     pickle.dump(label_ent, handle, protocol=pickle.HIGHEST_PROTOCOL)
 

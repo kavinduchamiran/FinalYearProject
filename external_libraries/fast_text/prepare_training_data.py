@@ -64,31 +64,29 @@ for k, _ in con_labels.items():
     k_label = k[28:]
     words = re.findall('[a-zA-Z][^A-Z]*', k_label)
     word = "+".join(map(str.lower, words))
-    con_labels[k].extend(query_datamuse_label(word))
+    con_labels[k].extend(query_datamuse_label(word)[:20])
 
 # grouping labels that may have same uri
 tuples = []
-con_filtered = {}
+# con_filtered = {}
 for uri, values in con_labels.items():
     for value in values:
-        con_filtered[value] = []
+#         con_filtered[value] = []
         tuples.append((uri, value))
+#
+# for (k, v) in tuples:
+#     con_filtered[v].append(k)
+tuples = list(set(tuples))
+# con_filtered = {k: list(set(v)) for k, v in con_filtered.items()}
 
-for (k, v) in tuples:
-    con_filtered[v].append(k)
-
-con_filtered = {k: list(set(v)) for k, v in con_filtered.items()}
-
-# pprint.pprint(con_filtered)
+pprint.pprint(tuples)
 
 # write to dataset file
 #  __label__URI word
 
-dest = open('./fastText-0.9.1/training_data/train_fasttext.txt', 'a+', encoding='utf8')
-for label, uris in con_filtered.items():
-    x = ''
-    for uri in uris:
-        x += '__label__' + uri[28:] + ' '
+dest = open('./fastText-0.9.1/training_data/train_fasttext2.txt', 'a+', encoding='utf8')
+for uri, label in tuples:
+    x = '__label__' + uri[28:] + ' '
     dest.write("{}{}\n".format(x.lower(), label.replace(' ', '')))
 
 # head -n 8964 train_fasttext.txt > t2d.train

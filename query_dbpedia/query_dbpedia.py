@@ -20,4 +20,4 @@ def query_dbpedia_lookup_endpoint(entity_label):
         return [result['uri'][28:] for result in results if 'http://dbpedia.org/ontology' in result['uri']]
     return []
 
-print(query_dbpedia_lookup_endpoint("usa"))
+

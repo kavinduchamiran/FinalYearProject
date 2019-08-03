@@ -63,3 +63,49 @@ def find_deepest_concept(L):
             deepestConceptInClassTree = c
 
     return 'http://dbpedia.org/ontology/' + deepestConceptInClassTree
+
+
+def calculate_tp_fp_fn(actual, predicted):
+    tp = 0
+    fp = 0
+    fn = 0
+
+    for entity in table_entity_array:
+        if entity.true_label is None:
+            continue
+
+        true = [entity.true_label]
+        predicted = [c[0] for c in entity.predicted_labels]
+        print
+        true, "-------", predicted
+        labels = set(true + predicted)
+
+        for label in labels:
+            if label in true:
+                if label in predicted:
+                    tp += 1
+                else:
+                    fn += 1
+            else:
+                fp += 1
+
+    return tp, fp, fn
+
+
+def get_metrics(tp, fp, fn):
+    if tp == 0 and fp == 0:
+        P = 0
+    else:
+        P = tp / float(tp + fp) * 100
+
+    if tp == 0 and fn == 0:
+        R = 0
+    else:
+        R = tp / float(tp + fn) * 100
+
+    if P == 0 and R == 0:
+        F1 = 0
+    else:
+        F1 = 2 * P * R / (P + R)
+
+    return P, R, F1
