@@ -13,7 +13,9 @@ external_libraries/open_ke/benchmarks
 
 concept_finder/datasets/dbpedia_mappings/dbr_dbo_dbr old.txt
 
-concept_finder/datasets/entity_extractor/dataset/*
+concept_finder/datasets/entity_extractor/dataset/*.txt
+concept_finder/datasets/entity_extractor/dataset/*.pickle
+
 
 .DS_Store
 __pycache__
