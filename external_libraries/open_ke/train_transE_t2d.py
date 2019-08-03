@@ -22,9 +22,9 @@ con.set_rel_neg_rate(0)
 con.set_opt_method("SGD")
 
 #Models will be exported via tf.Saver() automatically.
-con.set_export_files("../benchmarks/T2D/TransE/model.vec.tf", 0)
+con.set_export_files("./benchmarks/T2D/TransE/model.vec.tf", 0)
 #Model parameters will be exported to json files automatically.
-con.set_out_files("../benchmarks/T2D/TransE/embedding.vec.json")
+con.set_out_files("./benchmarks/T2D/TransE/embedding.vec.json")
 #Initialize experimental settings.
 con.init()
 #Set the knowledge embedding model

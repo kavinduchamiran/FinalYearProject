@@ -9,7 +9,8 @@ venv
 
 .idea
 
-external_libraries/open_ke/benchmarks
+external_libraries/open_ke/benchmarks/DBPEDIA_T2D_BIG
+external_libraries/open_ke/benchmarks/DBPedia_T2D_SMALL
 
 concept_finder/datasets/dbpedia_mappings/dbr_dbo_dbr old.txt
 
