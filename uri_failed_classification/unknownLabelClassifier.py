@@ -30,12 +30,12 @@ def createDataset():
         except:
             continue
             
-    print 'DONE: see file named uri_failed_data.txt'
+    print ('DONE: see file named uri_failed_data.txt')
 
 
 def predictConcept(txt):
     model = fasttext.load_model("model_uri_failed.bin")
-    print model.predict(txt)[0][0][9:]
+    print( model.predict(txt)[0][0][9:])
 
 # createDataset()
 
