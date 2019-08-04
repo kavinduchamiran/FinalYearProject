@@ -12,14 +12,21 @@ logging.getLogger('tensorflow').disabled = True
 import pickle
 
 # entity to id mappings and concept to id mappings
-label_ent = pickle.load(open('../external_libraries/open_ke/benchmarks/DBPEDIA_T2D_BIG/label_ent.pickle', 'rb'))
-label_rel = pickle.load(open('../external_libraries/open_ke/benchmarks/DBPEDIA_T2D_BIG/label_rel.pickle', 'rb'))
+# label_ent = pickle.load(open('../external_libraries/open_ke/benchmarks/DBPEDIA_T2D_BIG/label_ent.pickle', 'rb'))
+# label_rel = pickle.load(open('../external_libraries/open_ke/benchmarks/DBPEDIA_T2D_BIG/label_rel.pickle', 'rb'))
+
+label_ent = pickle.load(open('./datasets/entity_extractor/dataset/label_ent.pickle', 'rb'))
+label_rel = pickle.load(open('./datasets/entity_extractor/dataset/label_rel.pickle', 'rb'))
+
 reverse_label_rel = {v: k for k, v in label_rel.items()}
 
 # TransE
 con1 = config.Config()
-con1.set_in_path('../external_libraries/open_ke/benchmarks/DBPEDIA_T2D_BIG/')
-con1.set_import_files('../external_libraries/open_ke/benchmarks/DBPEDIA_T2D_BIG/TransE/model.vec.tf')
+# con1.set_in_path('../external_libraries/open_ke/benchmarks/DBPEDIA_T2D_BIG/')
+# con1.set_import_files('../external_libraries/open_ke/benchmarks/DBPEDIA_T2D_BIG/TransE/model.vec.tf')
+
+con1.set_in_path('../external_libraries/open_ke/benchmarks/T2D/')
+con1.set_import_files('../external_libraries/open_ke/benchmarks/T2D/TransE/model.vec.tf')
 con1.set_work_threads(16)
 con1.set_dimension(200)
 

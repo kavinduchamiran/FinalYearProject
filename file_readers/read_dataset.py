@@ -10,7 +10,7 @@ def read_t2d_table(filename):
              int: primary column index
              list of lists: column values, each column in a list
     """
-    filename = './datasets/test_files/tables/' + filename
+    filename = './datasets/entity_extractor/tables/' + filename
     table = json.load(codecs.open(filename,
         'r', encoding='utf-8', errors='ignore'))
 

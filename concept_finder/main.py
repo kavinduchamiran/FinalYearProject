@@ -9,7 +9,7 @@ Copyright 2019 Kavindu Chamiran | Amila Rukshan
 from file_readers import read_t2d_table, read_t2d_property
 from query_dbpedia import query_dbpedia_lookup_endpoint
 from methods import concept_embedding as ce
-from external_libraries import helper_functions as hf
+from external_libraries import heglper_functions as hf
 from collections import Counter
 
 import warnings
@@ -25,7 +25,7 @@ def find_concepts():
     dataset_folder = './datasets/test_files/tables/'
     file_list = hf.iter_folder(dataset_folder, 'json')
 
-    for file in file_list[:1]:
+    for file in file_list:
         predicted = {}
 
         has_header, sub_col_idx, columns = read_t2d_table(file + '.json')
@@ -80,15 +80,15 @@ def find_concepts():
             print(c, v)
             
         # get tp, fp, fn
-        tp, fp, fn = hf.calculate_tp_fp_fn(actual, predicted)
-        tp_overall += tp
-        fp_overall += fp
-        fn_overall += fn
+        # tp, fp, fn = hf.calculate_tp_fp_fn(actual, predicted)
+        # tp_overall += tp
+        # fp_overall += fp
+        # fn_overall += fn
 
     print()
     print()
 
-    print(hf.get_metrics(tp_overall, fp_overall, fn_overall))
+    # print(hf.get_metrics(tp_overall, fp_overall, fn_overall))
 
 find_concepts()
 

@@ -9,10 +9,9 @@ venv
 
 .idea
 
-external_libraries/open_ke/benchmarks/DBPEDIA_T2D_BIG
-external_libraries/open_ke/benchmarks/DBPedia_T2D_SMALL
+external_libraries/open_ke/benchmarks/*
 
-concept_finder/datasets/dbpedia_mappings/dbr_dbo_dbr old.txt
+concept_finder/datasets/dbpedia_mappings/backup/*
 
 concept_finder/datasets/entity_extractor/dataset/*.txt
 concept_finder/datasets/entity_extractor/dataset/*.pickle

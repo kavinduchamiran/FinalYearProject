@@ -11,11 +11,6 @@ labels = {}
 """
 This extracts the concepts
 """
-
-# try:
-#     os.remove('dbr_dbo_dbr.txt')
-# except:
-#     pass
 try:
     os.remove('dbr_dbo_dbr.txt')
 except:
