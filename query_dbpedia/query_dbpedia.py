@@ -11,13 +11,16 @@ def query_dbpedia_lookup_endpoint(entity_label):
     url = 'http://lookup.dbpedia.org/api/search/KeywordSearch?MaxHits=1&QueryString=%s' % entity_label
     http = urllib3.PoolManager()
 
-    req = http.request('GET', url, headers={'Accept': 'application/json'})
+    try:
+        req = http.request('GET', url, headers={'Accept': 'application/json'})
 
-    json_data = json.loads(req.data.decode('utf-8'))
+        json_data = json.loads(req.data.decode('utf-8'))
 
-    if json_data['results']:
-        results = json_data['results'][0]['classes']
-        return [result['uri'][28:] for result in results if 'http://dbpedia.org/ontology' in result['uri']]
-    return []
+        if json_data['results']:
+            results = json_data['results'][0]['classes']
+            return [result['uri'][28:] for result in results if 'http://dbpedia.org/ontology' in result['uri']]
+        return []
+    except:
+        return []
 
 

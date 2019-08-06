@@ -64,13 +64,12 @@ def test():
 
     print ("test_MRR : ", rank_reciprocal_sum/len(test_data))
 
-def findNearestNeighbours(literalValuesList):
-
-    with open('train_data.json') as f:
+def find_concept_numerical (literalValuesList):
+    with open('./methods/literal_columns/train_data.json') as f:
         train_data = json.load(f)
         train_labels = list(train_data.keys())
 
-    k = 5
+    k = 1
     # dictionalty to put (URI:pValue) pairs
     dictionary = OrderedDict()
 
@@ -86,14 +85,14 @@ def findNearestNeighbours(literalValuesList):
     for i in range(k):
         knn.append(sorted_dictionary[i][0])
 
-    return knn
+    return knn[0] if len(knn) > 0 else None
 
 
 # test run to calculate accuracy measures
-test()
+# test()
 
 # caddidate retrival for numerical data column
-# print(findNearestNeighbours([122, 135, 140, 127, 123.8, 120, 120.5, 133.5, 111.5]))
+# print(find_concept_numerical([122, 135, 140, 127, 123.8, 120, 120.5, 133.5, 111.5]))
 
 
 

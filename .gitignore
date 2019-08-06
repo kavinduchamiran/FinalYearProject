@@ -19,3 +19,6 @@ concept_finder/datasets/entity_extractor/dataset/*.pickle
 
 .DS_Store
 __pycache__
+
+external_libraries/fast_text/model/*
+external_libraries/fast_text/training_data/*

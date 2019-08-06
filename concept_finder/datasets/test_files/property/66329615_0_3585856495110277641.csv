@@ -1,0 +1,4 @@
+http://dbpedia.org/ontology/computingPlatform,platform,False,2
+http://dbpedia.org/ontology/manufacturer,manufacturer,False,3
+http://dbpedia.org/ontology/VideoGame,title,True,1
+http://dbpedia.org/ontology/releaseDate,release date,False,0
