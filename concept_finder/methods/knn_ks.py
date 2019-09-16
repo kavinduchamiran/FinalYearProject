@@ -84,25 +84,7 @@ def findNumericalConcept(subject_concept, value_set):
         Node("".join(line[1:]).strip(), parent=find_by_attr(root, line[0]))
 
     if not b:
-        min_dis = float('inf')
-        min_dist_concept = None
-        for candidate in candidates_to_domain.keys():
-            x = [ancestor.name for ancestor in find_by_attr(root, subject_concept).ancestors]
-            x.append(subject_concept)
-            x = set(x)
-            y = None
-            if candidates_to_domain[candidate] != None:
-                try:
-                    y = [ancestor.name for ancestor in find_by_attr(root, candidates_to_domain[candidate][28:]).ancestors]
-                    y.append(candidates_to_domain[candidate][28:])
-                    y = set(y)
-                    curr_dis = len(list(x.union(y)-x.intersection(y)))
-                    if curr_dis < min_dis:
-                        min_dis = curr_dis
-                        min_dist_concept = candidate
-                except:
-                    continue
-        predicted_concept = min_dist_concept[28:]
+        return None
 
     return "http://dbpedia.org/ontology/" + predicted_concept
 
