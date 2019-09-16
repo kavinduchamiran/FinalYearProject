@@ -16,7 +16,7 @@ import operator
 
 def findNearestNeighbours(literalValuesList, K):
 
-    with open('../datasets/numerical_data/train_data.json') as f:
+    with open('./datasets/numerical_data/train_data.json') as f:
         train_data = json.load(f)
         train_labels = list(train_data.keys())
 
@@ -40,7 +40,7 @@ def findNearestNeighbours(literalValuesList, K):
     return knn
 
 def findDomains(k_conceptsList):
-    concept_to_domain = pickle.load(open('../datasets/numerical_data/numerical_concept_to_domain_map.pkl', 'rb'))
+    concept_to_domain = pickle.load(open('./datasets/numerical_data/numerical_concept_to_domain_map.pkl', 'rb'))
     found_concept_to_domain = { }
     for concept in k_conceptsList:
         # print(concept, concept_to_domain[concept])
@@ -58,7 +58,11 @@ def findNumericalConcept(subject_concept, value_set):
         for r in remove:
             txt = txt.replace(r, '')
         if len(txt) > 0:
-            normalized_value_set.append(float(txt))
+            try:
+                normalized_value_set.append(float(txt))
+            except ValueError:
+                return None
+
     # finding the domains correspond to concepts
     candidates_to_domain = findDomains(findNearestNeighbours(normalized_value_set, 20))
     
@@ -72,7 +76,7 @@ def findNumericalConcept(subject_concept, value_set):
 
     # loading the concept tree
     root = None
-    f = open('../datasets/numerical_data/dbp_tree_input.txt', 'r')
+    f = open('./datasets/numerical_data/dbp_tree_input.txt', 'r')
     lines = f.readlines()[1:]
     root = Node(lines[0].split(" ")[0])
     for line in lines:
@@ -100,5 +104,5 @@ def findNumericalConcept(subject_concept, value_set):
                     continue
         predicted_concept = min_dist_concept[28:]
 
-    return predicted_concept
+    return "http://dbpedia.org/ontology/" + predicted_concept
 

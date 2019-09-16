@@ -9,7 +9,7 @@ Copyright 2019 Kavindu Chamiran | Amila Rukshan
 from file_readers import read_t2d_table, read_t2d_property
 from query_dbpedia import query_dbpedia_lookup_endpoint
 from methods import concept_embedding as ce
-from methods import find_concept_numerical
+from methods import findNumericalConcept
 from external_libraries.helper_functions import *
 from external_libraries.fuzzy import find_concept_fuzzy
 from collections import Counter
@@ -22,7 +22,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 search_space = 10
 
 def find_concepts():
-    tp_overall, fp_overall, fn_overall = 0,0,0,
+    tp_overall, fp_overall, fn_overall = 0, 0, 0
     # tp_overall, fp_overall, fn_overall = 83, 59, 141
 
     dataset_folder = './datasets/test_files/tables/'
@@ -36,10 +36,13 @@ def find_concepts():
 
         df = pd.DataFrame(columns).transpose()
 
-        print(df.head().to_string())
+        print(df.head(15).to_string())
         print()
         
         actual = read_t2d_property(file + '.csv')
+
+        col_data_type = {key: 'textual' for key in range(len(columns))}
+
 
         # ----------------------------------------------------
         # DBPedia lookup endpoint - subject column
@@ -72,6 +75,7 @@ def find_concepts():
                 continue
 
             if is_numerical(column):
+                col_data_type[idx] = 'numerical'
                 predicted[idx] = None
                 continue
 
@@ -95,7 +99,7 @@ def find_concepts():
         # ----------------------------------------------------
 
         for idx, column in enumerate(columns):
-            if predicted[idx] is None or predicted[idx] == 'numerical':
+            if predicted[idx] is None:
                 predicted[idx] = find_concept_fuzzy(column[0])[0]
 
         # # ----------------------------------------------------
@@ -106,34 +110,41 @@ def find_concepts():
         #     if predicted[idx] is None or predicted[idx] == 'numerical':
         #         predicted[idx] = fs_predict_concept_header(column[1:])
         #
-        # # ----------------------------------------------------
-        # # Numerical columns - column values - KS Test
-        # # ----------------------------------------------------
-        #
-        # for idx, column in enumerate(columns):
-        #     if predicted[idx] is None or predicted[idx] == 'numerical':
-        #         predicted[idx] = find_concept_numerical(column[1:])
+        # ----------------------------------------------------
+        # Numerical columns - column values - KS Test
+        # ----------------------------------------------------
 
-        for c, v in predicted.items():
-            print(c, ': predicted =', v, '| actual =', actual.get(c, None)),
-            
+        # for idx, column in enumerate(columns):
+        #     if predicted[idx] == 'numerical' and predicted[sub_col_idx]:
+        #         p = findNumericalConcept(predicted[sub_col_idx][28:], column)
+        #         predicted[idx] = p
+
+        x = pd.DataFrame([predicted, actual, col_data_type], index=['predicted', 'actual', 'col_data_type'])
+        x = x.where(x.notnull(), None)
+
+        print(x.transpose().to_string())
+
         # get tp, fp, fn
-        tp, fp, fn = calculate_tp_fp_fn(actual, predicted)
+        tp, fp, fn, ne, lit = calculate_tp_fp_fn(actual, predicted, col_data_type)
         tp_overall += tp
         fp_overall += fp
         fn_overall += fn
 
-    # print()
-    # print()
+        print()
+        print()
 
-        print("Precision: %d Recall: %d F1 score: %d" % get_metrics(tp_overall, fp_overall, fn_overall))
-        print("tp_overall: %d, fp_overall: %d, fn_overall: %d" % (tp_overall, fp_overall, fn_overall))
+        print("Precision: %d Recall: %d F1 score: %d" % get_metrics(tp, fp, fn))
+        print("tp: %d, fp: %d, fn: %d, ne: %d, lit: %d" % (tp, fp, fn, ne, lit))
+
         print()
         print()
 
         source = './datasets/test_files/tables/' + file + '.json'
         dest = './datasets/test_files/tables/done/' + file + '.json'
         shutil.move(source, dest)
+
+        with open('results.txt', 'a+') as res:
+            res.write("%s %s %s %s %s %s\n" % (file, tp, fp, fn, ne, lit))
 
 find_concepts()
 

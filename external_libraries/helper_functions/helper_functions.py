@@ -77,15 +77,21 @@ def is_numerical(column):
     return all(num)
 
 
-def calculate_tp_fp_fn(actual, predicted):
+def calculate_tp_fp_fn(actual, predicted, col_data_type):
     tp = 0
     fp = 0
     fn = 0
+    ne = 0
+    lit = 0
 
     for idx, uri in predicted.items():
         true = actual.get(idx, None)
         if true and uri and uri.lower() == true.lower():
             tp += 1
+            if col_data_type[idx] == 'numerical':
+                lit += 1
+            else:
+                ne += 1
         elif uri and true and uri.lower() != true.lower() or not uri and true:
             fp += 1
         elif uri and not true:
@@ -93,7 +99,7 @@ def calculate_tp_fp_fn(actual, predicted):
         else:
             pass
 
-    return tp, fp, fn
+    return tp, fp, fn, ne, lit
 
 
 def get_metrics(tp, fp, fn):
