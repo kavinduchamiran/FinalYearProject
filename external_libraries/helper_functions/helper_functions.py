@@ -1,10 +1,22 @@
 """
 some helper functions
 """
+import math
+import re
+
 from fuzzywuzzy import fuzz
 import os
 import urllib3
 from bs4 import BeautifulSoup as bs
+from random import sample
+
+# regexes = [
+#     '(\\d+)' + '(,)' + '(\\d+)',    # 123,456
+#     '(\\d+)' + '(.)' + '(\\d+)',    # 123.456
+#     '\\d+',    # 123
+#     '\\d+',    # 123
+#
+# ]
 
 def iter_folder(folder_path, extension=None):
     """
@@ -40,6 +52,26 @@ def fuzzy_match(entity_label):
     return curr_uri
 
 
+def is_numerical_column(column):
+    """
+    given a column, sample 30% of it
+    for each value, check [0-9] count > [a-zA-Z] count
+    return true if ^ true for all in sample
+    :param column: a column: list from a table
+    :return: True if all cells in sampled list are numerical
+    """
+    numerical = []
+    size = math.ceil(len(column)*0.3)
+    col_sample = sample(column, size)
+    regex = re.compile(r'\d')
+    for val in col_sample:
+        num_count = len(''.join(regex.findall(str(val))))
+        numerical.append(2 * num_count >= len(str(val)))
+    return all(numerical)
+
+
+
+
 def find_deepest_concept(L):
     maxDepth = -float('inf')
     deepestConceptInClassTree = ""
@@ -70,22 +102,20 @@ def calculate_tp_fp_fn(actual, predicted):
     fp = 0
     fn = 0
 
-    for entity in table_entity_array:
-        if entity.true_label is None:
-            continue
+    for idx, uri in predicted.items():
+        # if uri is not defined in property files, its not added to actual dict. so no need to continue.
+        # if uri is None:
+        #     continue
 
-        true = [entity.true_label]
-        predicted = [c[0] for c in entity.predicted_labels]
-        print
-        true, "-------", predicted
-        labels = set(true + predicted)
+        true = actual.get(idx, None)
+        pred = uri
+        print(true, "-------", pred)
 
-        for label in labels:
-            if label in true:
-                if label in predicted:
-                    tp += 1
-                else:
-                    fn += 1
+        if true == pred:
+            tp += 1
+        else:
+            if true is not None:
+                fn += 1
             else:
                 fp += 1
 
@@ -109,3 +139,13 @@ def get_metrics(tp, fp, fn):
         F1 = 2 * P * R / (P + R)
 
     return P, R, F1
+
+
+is_numerical_column([1, 2, 3, 4])
+is_numerical_column(['1980-19-10', '1221-21-32'])
+is_numerical_column(['(707) 785-3415', '(707) 385-3415'])
+is_numerical_column(['613m', '62113m'])
+is_numerical_column(['$1,800', '&1,800'])
+is_numerical_column(['Promoted Sept 2007', 'Promoted Oct 2007'])
+is_numerical_column(['52', '244'])
+is_numerical_column(['colombo 1', 'united 40'])

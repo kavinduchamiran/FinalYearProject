@@ -16,16 +16,17 @@ import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 import pandas as pd
+import re
 
 search_space = 20
 
-def find_concepts():
+def find_concepts_textual():
     tp_overall, fp_overall, fn_overall = 0, 0, 0
 
     dataset_folder = './datasets/test_files/tables/'
     file_list = hf.iter_folder(dataset_folder, 'json')
 
-    for file in file_list[:1]:
+    for file in file_list[1:]:
         predicted = {}
 
         has_header, sub_col_idx, columns = read_t2d_table(file + '.json')
@@ -50,9 +51,9 @@ def find_concepts():
             sub_results.extend(result)
 
         if not sub_results:
-            predicted[sub_col_idx] = None
+            predicted[sub_col_idx] = [None]
         else:
-            predicted[sub_col_idx] = hf.find_deepest_concept(Counter(sub_results))
+            predicted[sub_col_idx] = [hf.find_deepest_concept(Counter(sub_results))]
 
         # finding concepts of remaining columns
 
@@ -62,19 +63,37 @@ def find_concepts():
             if idx == sub_col_idx:
                 continue
 
-            if has_header:
-                column = column[1:min(len(column), search_space)]
+            if hf.is_numerical_column(column):
+                # numerical columns
 
-            temp_results[idx] = []
+                # try to identify using column header first
+                if has_header:
+                    header, column = column[0], column[1:min(len(column), search_space)]
 
-            for r1, r2 in zip(sub_column, column):
-                r1_uri, r2_uri = hf.fuzzy_match(r1.encode('ascii', 'ignore')), \
-                                 hf.fuzzy_match(r2.encode('ascii', 'ignore'))
+                    # clean header before inputting
+                    regex = re.compile(r'[a-zA-Z]+')
+                    formatted_header = ''.join(regex.findall(header)).lower()
 
-                result = ce.predict_concept_transE(r1_uri, r2_uri, 1)
-                temp_results[idx].append(result)
 
-            predicted[idx] = max(temp_results[idx], key=temp_results[idx].count)[0]
+
+
+                # if it didnt work, then go for ks method
+
+            else:
+                if has_header:
+                    column = column[1:min(len(column), search_space)]
+
+                # textual columns
+                temp_results[idx] = []
+
+                for r1, r2 in zip(sub_column, column):
+                    r1_uri, r2_uri = hf.fuzzy_match(r1.encode('utf8', 'ignore')), \
+                                     hf.fuzzy_match(r2.encode('utf8', 'ignore'))
+
+                    result = ce.predict_concept_transE(r1_uri, r2_uri, 1)
+                    temp_results[idx].append(result)
+
+                predicted[idx] = max(temp_results[idx], key=temp_results[idx].count)[0]
 
         for c, v in predicted.items():
             print(c, v)
@@ -90,6 +109,6 @@ def find_concepts():
 
     print(hf.get_metrics(tp_overall, fp_overall, fn_overall))
 
-find_concepts()
+find_concepts_textual()
 
 #find . -size +5M | cat >> .gitignore

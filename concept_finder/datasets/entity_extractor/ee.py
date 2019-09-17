@@ -5,6 +5,11 @@ import csv
 import random
 import urllib3
 import re
+from multiprocessing.dummy import Pool as ThreadPool
+
+def special_match(strg, search=re.compile(r'[+a-z]').search):
+    # regex at least one a-z
+    return bool(search(strg)) and len(strg) > 2 and len(strg) < 20
 
 try:
     os.remove('label_to_uri.txt')
@@ -12,12 +17,6 @@ try:
     os.remove('label_to_uri_cleaned.txt')
 except:
     pass
-
-def special_match(strg, search=re.compile(r'[+a-z]').search):
-    # regex at least one a-z
-    return bool(search(strg)) and len(strg) > 2 and len(strg) < 20
-
-from multiprocessing.dummy import Pool as ThreadPool
 
 rows = []
 e2c = []

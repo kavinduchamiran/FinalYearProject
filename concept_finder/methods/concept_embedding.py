@@ -44,7 +44,6 @@ def predict_concept_transE(e1, e2, k=1):
         for pred in predictions:
             results.append(reverse_label_rel[pred])
         return results
-
     return [None]
 
 

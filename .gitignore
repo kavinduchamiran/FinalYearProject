@@ -19,3 +19,4 @@ concept_finder/datasets/entity_extractor/dataset/*.pickle
 
 .DS_Store
 __pycache__
+*.pyc
