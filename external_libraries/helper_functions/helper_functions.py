@@ -2,27 +2,21 @@
 some helper functions
 """
 import math
-import re
 
 from fuzzywuzzy import fuzz
 import os
 import urllib3
 from bs4 import BeautifulSoup as bs
 from random import sample
+import re
 
-# regexes = [
-#     '(\\d+)' + '(,)' + '(\\d+)',    # 123,456
-#     '(\\d+)' + '(.)' + '(\\d+)',    # 123.456
-#     '\\d+',    # 123
-#     '\\d+',    # 123
-#
-# ]
+regex = re.compile(r'\d+')
 
 def iter_folder(folder_path, extension=None):
     """
-    
-    :param folder_path: 
-    :return: 
+
+    :param folder_path:
+    :return:
     """
     if extension:
         return [filename[:-len(extension)-1] for filename in os.listdir(folder_path) if filename.endswith(".%s" % extension)]
@@ -33,11 +27,10 @@ def fuzzy_match(entity_label):
     """
     find a closest matching dbr:entity for a given entity label
     eg: "sri lanka" -> dbr:Sri_Lanka
-    :param entity_label: label of the entity 
+    :param entity_label: label of the entity
     :return: closest dbr uri
     """
-    lines = [line.rstrip('\n') for line in open('./datasets/dbpedia_mappings/dbr_label.txt', encoding='utf8')]
-    # lines += [line.rstrip('\n') for line in open('label_dbr.txt', encoding='utf8')]
+    lines = [line.rstrip('\n') for line in open('./datasets/dbpedia_mappings/backup/label_to_uri_cleaned.txt', encoding='utf8')]
 
     curr_uri = ""
     curr_ratio = -1
@@ -49,28 +42,7 @@ def fuzzy_match(entity_label):
             curr_ratio = fzz_ratio
             curr_uri = uri
 
-    return curr_uri
-
-
-def is_numerical_column(column):
-    """
-    given a column, sample 30% of it
-    for each value, check [0-9] count > [a-zA-Z] count
-    return true if ^ true for all in sample
-    :param column: a column: list from a table
-    :return: True if all cells in sampled list are numerical
-    """
-    numerical = []
-    size = math.ceil(len(column)*0.3)
-    col_sample = sample(column, size)
-    regex = re.compile(r'\d')
-    for val in col_sample:
-        num_count = len(''.join(regex.findall(str(val))))
-        numerical.append(2 * num_count >= len(str(val)))
-    return all(numerical)
-
-
-
+    return curr_uri if curr_ratio > 80 else None
 
 def find_deepest_concept(L):
     maxDepth = -float('inf')
@@ -97,29 +69,37 @@ def find_deepest_concept(L):
     return 'http://dbpedia.org/ontology/' + deepestConceptInClassTree
 
 
-def calculate_tp_fp_fn(actual, predicted):
+def is_numerical(column):
+    s = sample(column, math.ceil(len(column) * 0.3))
+    num = []
+    for val in s:
+        num.append(2 * len(''.join(regex.findall(str(val)))) >= len(val))
+    return all(num)
+
+
+def calculate_tp_fp_fn(actual, predicted, col_data_type):
     tp = 0
     fp = 0
     fn = 0
+    ne = 0
+    lit = 0
 
     for idx, uri in predicted.items():
-        # if uri is not defined in property files, its not added to actual dict. so no need to continue.
-        # if uri is None:
-        #     continue
-
         true = actual.get(idx, None)
-        pred = uri
-        print(true, "-------", pred)
-
-        if true == pred:
+        if true and uri and uri.lower() == true.lower():
             tp += 1
-        else:
-            if true is not None:
-                fn += 1
+            if col_data_type[idx] == 'numerical':
+                lit += 1
             else:
-                fp += 1
+                ne += 1
+        elif uri and true and uri.lower() != true.lower() or not uri and true:
+            fp += 1
+        elif uri and not true:
+            fn += 1
+        else:
+            pass
 
-    return tp, fp, fn
+    return tp, fp, fn, ne, lit
 
 
 def get_metrics(tp, fp, fn):
@@ -139,13 +119,3 @@ def get_metrics(tp, fp, fn):
         F1 = 2 * P * R / (P + R)
 
     return P, R, F1
-
-
-is_numerical_column([1, 2, 3, 4])
-is_numerical_column(['1980-19-10', '1221-21-32'])
-is_numerical_column(['(707) 785-3415', '(707) 385-3415'])
-is_numerical_column(['613m', '62113m'])
-is_numerical_column(['$1,800', '&1,800'])
-is_numerical_column(['Promoted Sept 2007', 'Promoted Oct 2007'])
-is_numerical_column(['52', '244'])
-is_numerical_column(['colombo 1', 'united 40'])

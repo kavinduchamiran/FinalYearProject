@@ -1,5 +1,0 @@
-there are 103 DatatypeProperty types which are having ranges with float or int
-"http://www.w3.org/2001/XMLSchema#float"
-"http://www.w3.org/2001/XMLSchema#integer" 
-"http://www.w3.org/2001/XMLSchema#positiveInteger",   
-"http://www.w3.org/2001/XMLSchema#integer"
