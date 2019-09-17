@@ -41,8 +41,14 @@ def find_concepts():
         
         actual = read_t2d_property(file + '.csv')
 
-        col_data_type = {key: 'textual' for key in range(len(columns))}
+        col_data_type = {}
 
+        for idx, col in enumerate(columns):
+            if is_numerical(col[1:]):
+                col_data_type[idx] = 'numerical'
+                predicted[idx] = 'numerical'
+            else:
+                col_data_type[idx] = 'textual'
 
         # ----------------------------------------------------
         # DBPedia lookup endpoint - subject column
@@ -74,9 +80,7 @@ def find_concepts():
             if idx == sub_col_idx:
                 continue
 
-            if is_numerical(column):
-                col_data_type[idx] = 'numerical'
-                predicted[idx] = None
+            if col_data_type[idx] == 'numerical':
                 continue
 
             if has_header:
@@ -99,7 +103,7 @@ def find_concepts():
         # ----------------------------------------------------
 
         for idx, column in enumerate(columns):
-            if predicted[idx] is None:
+            if predicted[idx] is None and col_data_type[idx] == 'textual':
                 predicted[idx] = find_concept_fuzzy(column[0])[0]
 
         # # ----------------------------------------------------
@@ -114,10 +118,10 @@ def find_concepts():
         # Numerical columns - column values - KS Test
         # ----------------------------------------------------
 
-        # for idx, column in enumerate(columns):
-        #     if predicted[idx] == 'numerical' and predicted[sub_col_idx]:
-        #         p = findNumericalConcept(predicted[sub_col_idx][28:], column)
-        #         predicted[idx] = p
+        for idx, column in enumerate(columns):
+            if col_data_type[idx] == 'numerical' and predicted[sub_col_idx]:
+                p = findNumericalConcept(predicted[sub_col_idx][28:], column)
+                predicted[idx] = p
 
         x = pd.DataFrame([predicted, actual, col_data_type], index=['predicted', 'actual', 'col_data_type'])
         x = x.where(x.notnull(), None)

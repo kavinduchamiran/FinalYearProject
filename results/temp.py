@@ -4,7 +4,7 @@ import pickle
 with open('grouped.pkl', 'rb') as f:
     files = pickle.load(f)
 
-with open('results a.txt', 'r') as r:
+with open('../concept_finder/results.txt', 'r') as r:
     res = r.read().split('\n')
     results = {}
 
