@@ -7,11 +7,14 @@ Copyright 2019 Kavindu Chamiran | Amila Rukshan
 """
 
 from file_readers import read_t2d_table, read_t2d_property
-from query_dbpedia import query_dbpedia_lookup_endpoint
+
 from methods import concept_embedding as ce
 from methods import findNumericalConcept
+
 from external_libraries.helper_functions import *
 from external_libraries.fuzzy import find_concept_fuzzy
+from external_libraries.query_dbpedia import query_dbpedia_lookup_endpoint
+
 from collections import Counter
 import pandas as pd
 import warnings

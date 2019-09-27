@@ -23,3 +23,5 @@ __pycache__
 
 external_libraries/fast_text/model/*
 external_libraries/fast_text/training_data/*
+
+relation_extractor/dataset.txt
