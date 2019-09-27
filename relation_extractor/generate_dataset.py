@@ -26,9 +26,9 @@ def intersection(lst1, lst2):
     return [v for v in lst1 if v in lst2]
 
 def query_dbpedia_relation(entities):
-    global count
-    count += 1
-    print(count / total)
+    # global count
+    # count += 1
+    # print(count / total)
 
     e1, e2 = entities[0], entities[1]
 
@@ -76,8 +76,7 @@ rows = list(set(rows))
 l = [row.split('\t')[1] for row in rows]
 l = list(set(l))
 
-coupled = list(itertools.permutations(l, 2))
-total = len(coupled)
+coupled = itertools.permutations(l, 2)
 
 pool.map(query_dbpedia_relation, coupled)
 
