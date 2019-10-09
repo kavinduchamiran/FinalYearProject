@@ -1,0 +1,16 @@
+{
+    "http://dbpedia.org/ontology/Film": ["http://dbpedia.org/ontology/releaseDate"],
+    "http://dbpedia.org/ontology/TelevisionShow": ["http://dbpedia.org/ontology/releaseDate"],
+    "http://dbpedia.org/ontology/Saint": ["http://dbpedia.org/ontology/deathYear"],
+    "http://dbpedia.org/ontology/VideoGame": ["http://dbpedia.org/ontology/year", "http://dbpedia.org/ontology/releaseDate"],
+    "http://dbpedia.org/ontology/BaseballPlayer": ["http://dbpedia.org/ontology/activeYearsStartDate", "http://dbpedia.org/ontology/activeYearsEndDate"],
+    "http://dbpedia.org/ontology/Country": ["http://dbpedia.org/ontology/creationYear", "http://dbpedia.org/ontology/foundingYear"],
+    "http://dbpedia.org/ontology/award": ["http://dbpedia.org/ontology/year"],
+    "http://dbpedia.org/ontology/Person": ["http://dbpedia.org/ontology/birthDate", "http://dbpedia.org/ontology/deathDate"],
+    "http://dbpedia.org/ontology/Mountain": ["http://dbpedia.org/ontology/firstAscentYear"],
+    "http://dbpedia.org/ontology/Book": ["http://dbpedia.org/ontology/releaseDate"],
+    "http://dbpedia.org/ontology/Novel": ["http://dbpedia.org/ontology/releaseDate"],
+    "http://dbpedia.org/ontology/Building": ["http://dbpedia.org/ontology/openingDate"],
+}
+
+// import dateparser
