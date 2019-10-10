@@ -200,7 +200,7 @@ charles glover barkla	http://dbpedia.org/resource/Charles_Glover_Barkla
 phocas	http://dbpedia.org/resource/Phocas
 aqua teen hunger force	http://dbpedia.org/resource/Aqua_Teen_Hunger_Force
 giorgos lanthimos	http://dbpedia.org/resource/Yorgos_Lanthimos
-chicago o&#8217;hare international airport	http://dbpedia.org/resource/O'Hare_International_Airport
+chicago ohare international airport	http://dbpedia.org/resource/O'Hare_International_Airport
 robin roberts	http://dbpedia.org/resource/Robin_Roberts_(baseball)
 harrison stickle	http://dbpedia.org/resource/Harrison_Stickle
 the man who would be king	http://dbpedia.org/resource/The_Man_Who_Would_Be_King_(film)
